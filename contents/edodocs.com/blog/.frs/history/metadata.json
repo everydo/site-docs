@@ -1,0 +1,14 @@
+{
+    "main": {
+    "hidden_keys": ["img"], 
+        "contenttype": "Document"
+    }, 
+    "dublin": {
+        "creators": [
+            "潘俊勇"
+        ], 
+        "created": "2009-08-16 16:47", 
+        "description": "文档管理系统升级历史一览，详细介绍各版本的新增功能，修复的BUG等", 
+        "title": "文档管理产品升级历史"
+    }
+}

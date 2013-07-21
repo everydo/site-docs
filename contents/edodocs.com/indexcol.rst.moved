@@ -1,0 +1,52 @@
+﻿.. raw:: html
+
+    <div id="rightcolumn" class="edoBox">
+    <b class="xtop"><b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b></b>
+    <dl class="portlet portalLogin">
+
+       <dt class="portletHeader">用户登录</dt>
+       <dd class="portletItem">
+            <form id="loginAccountForm" action="http://oc.everydo.com/login" method="post"> 
+                <p class="inputError"></p>
+		<br>
+                <p class="margin_3"><span>站点名: </span><input id="_account" name="account" class="portal-login-input portal-login-sitename" type="text">.everydo.com</p>
+               <p class="margin_3"><span>登录名: </span><input id="_login" name="login" class="portal-login-input" type="text"></p>
+                <p class="margin_3"><span>密　码: </span><input id="_password" name="password" class="portal-login-input" type="password"></p>
+		<br>
+                <p style="margin-left: 4em;margin_top:1em;"><input value="登录" id="portal-login-submit" type="submit">  <a href="forget-pwd.rst">忘记密码?</a></p>
+            </form>
+        </dd>
+    </dl>
+	<img src="img/login_bottom_bg.gif"/>
+    </div>
+
+    <div class="edoBox">
+        <a href="signup.html"><img src="img/portal_signup.gif" alt="注册"></a>
+    </div>
+    <p style="text-align:center; height:30px; margin-top:20px; margin-bottom:10px;">
+        <img src="img/pic5.gif"/><span></span> 
+        <a href="http://dms.100done.com/" style="font-size:14px;"><b>易度邀您体验演示站点</b></a>
+    </p>
+
+    <div class="edoBox">
+    <b class="xtop"><b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b></b>
+    <dl class="portlet portalPartner">
+        <dt class="portletHeader"> 合作伙伴 </dt>
+        <dd class="portletItem">
+            <div>
+                <a href="http://www.alisoft.com/"><img src="img/logo_alisoft.gif" alt="阿里软件" title="阿里软件"></a>
+                <a href="http://www.alipay.com/"><img src="img/logo_alipay.gif" alt="支付宝" title="支付宝"></a>
+
+            </div>
+            <div>
+                <a href="http://www.kunher.com/"><img src="img/logo_kunher.gif" alt="昆禾科技" title="昆禾科技"></a>
+                <a href="http://www.99bill.com/"><img src="img/logo_kuaiqian.gif" alt="快钱" title="快钱"></a>
+            </div>
+        </dd>
+        <dd class="portletFooter">
+            <div><!-- --></div>
+        </dd>
+
+    </dl>
+    <b class="xbottom"><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1"></b></b>
+    </div>

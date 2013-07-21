@@ -1,0 +1,5 @@
+description: ''
+exclude: [old, img, index.rst]
+order: [consulting.rst, download.rst, faq.rst, init.rst, edit-cooperation.rst, permission.rst,
+  preview.rst, search.rst, service.rst, sysfaq.rst, upload.rst]
+title: 下载与支持

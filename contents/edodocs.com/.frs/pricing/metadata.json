@@ -1,0 +1,19 @@
+{
+    "main": {
+        "left_col": ".. navtree::\n   :root_depth: 2\n.. include:: ../quicklink.rst",
+        "contenttype": "Folder",
+        "hidden_keys": [
+	    "img"
+        ], 
+        "keys": [
+            "index.rst",
+	    "maintain.rst",
+            "daili.rst"
+        ], 
+        "contenttype": "Document"
+    }, 
+    "dublin": {
+        "description": "", 
+        "title": "产品购买"
+    }
+}

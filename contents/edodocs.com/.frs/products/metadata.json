@@ -1,0 +1,22 @@
+{
+    "main": {
+        "left_col": ".. navtree::\n   :root_depth: 2",
+        "hidden_keys": [
+            "img"
+        ], 
+        "keys": [
+            "index.rst", 
+            "workdesk", 
+            "worksite", 
+            "workgroup", 
+            "project", 
+            "bizman", 
+            "admin"
+        ], 
+        "contenttype": "Document"
+    }, 
+    "dublin": {
+        "description": "", 
+        "title": "产品介绍"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "main": {
+        "left_col": ".. navtree::\n   :root_depth: 2\n.. include:: ../quicklink.rst",
+        "contenttype": "Folder",
+        "hidden_keys":["img", "index.rst", "pic","fields.rst"],
+        "keys":["fields.rst", 
+                "edm.rst",
+                "archive.rst",
+                "isodoc.rst",
+                "contract.rst",
+		"paper.rst",
+		"project.rst",
+		"leakprotect.rst",
+		"jinchuanquan.rst",
+                "digital.rst"
+                ]
+    }, 
+    "dublin": {
+        "description": "", 
+        "title": "解决方案"
+    }
+}

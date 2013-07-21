@@ -1,0 +1,13 @@
+{
+    "main":{
+        "hidden_keys": ["index.rst","wenhuabu.rst", "img","yunnanbudui.rst"]
+    },
+    "dublin": {
+        "title": "政府",
+        "description": "",
+        "creators": [
+            "杨小勇"
+        ],
+        "created": "2011-02-25 19:40:08.076343"
+    }
+}

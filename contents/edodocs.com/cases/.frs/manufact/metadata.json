@@ -1,0 +1,13 @@
+{
+    "main":{
+        "hidden_keys": ["index.rst","kaipu.rst","nanhai.rst","img","keli.rst","yapp.rst"]
+    },
+    "dublin": {
+        "title": "制造业",
+        "description": "",
+        "creators": [
+            "黄恒森"
+        ],
+        "created": "2012-01-17 13:10:08.076343"
+    }
+}
