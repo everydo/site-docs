@@ -1,7 +1,5 @@
 ---
 created:
-  description: ''
-  title: 扩展插件
 creator: ''
 description: ''
 title: 扩展插件

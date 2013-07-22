@@ -4,6 +4,9 @@ creator: pjy
 description: ''
 title: 文档管控
 ---
+================
+文档管控
+================
 ﻿.. image:: pic/edodocs-isodoc-image001.jpg
 
 .. image:: img/show.gif

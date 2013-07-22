@@ -1,7 +1,5 @@
 ---
 created:
-  description: ''
-  title: 中国文化部 - 文化信息资源网络传输系统
 creator: ''
 description: ''
 title: 中国文化部 - 文化信息资源网络传输系统
