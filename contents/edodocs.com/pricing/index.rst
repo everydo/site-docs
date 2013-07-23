@@ -1,10 +1,13 @@
 ---
 created:
-  title: 产品购买
 creator: ''
 description: ''
 title: 产品购买
 ---
+==========
+产品购买
+==========
+
 .. image:: img/buy.jpg
    :alt: 购买企业文档管理软件系统
 

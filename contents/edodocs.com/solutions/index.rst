@@ -4,6 +4,10 @@ creator: pan
 description: ''
 title: 解决方案
 ---
+============
+解决方案
+============
+
 .. image:: img/solution.jpg
    :class: topimg
 
