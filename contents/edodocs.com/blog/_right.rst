@@ -11,3 +11,13 @@
 .. news:: 博客
    :path: blog
    :size: 40
+
+.. raw:: html
+
+     </dd>
+     <dd class="portletItem portletFooter">
+       <a href="http://www.edodocs.com/blog/">更多</a>
+     </dd>
+     </dl>
+    </div>
+   </div>
