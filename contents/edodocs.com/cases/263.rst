@@ -1,5 +1,5 @@
 ---
-created: 2012-03-28 16:01
+created: 2012-03-28 16:01:00
 creator: 杨小勇
 description: ''
 title: 从数据管理升华成知识管理 - 263建立企业知识库

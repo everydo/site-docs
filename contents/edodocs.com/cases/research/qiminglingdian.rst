@@ -1,5 +1,5 @@
 ---
-created: 2012-03-23 17:50
+created: 2012-03-23 17:50:00
 creator: 黄恒森
 description: ''
 title: 启明菱电车载电子公司 - 企业文档管理系统

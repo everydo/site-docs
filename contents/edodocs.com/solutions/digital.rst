@@ -1,5 +1,5 @@
 ---
-created: 2010-03-24 09:31
+created: 2010-03-24 09:31:00
 creator: 海坤
 description: ''
 title: 数字资产管理

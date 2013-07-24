@@ -1,10 +1,5 @@
 ---
-created:
-  created: 2009-08-26 16:47
-  creators:
-  - 潘俊勇
-  description: ''
-  title: 在线预览AutoCAD图纸
+created: 2009-08-26 16:47:00
 creator: 潘俊勇
 description: ''
 title: 在线预览AutoCAD图纸

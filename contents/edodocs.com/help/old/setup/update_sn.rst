@@ -1,5 +1,5 @@
 ---
-created: 2010-06-02 09:58
+created: 2010-06-02 09:58:00
 creator: 小罗
 description: ''
 title: 怎么更新许可授权序列号？

@@ -1,5 +1,5 @@
 ---
-created: 2010-03-30 11:05
+created: 2010-03-30 11:05:00
 creator: 潘俊勇
 description: ''
 title: 资源列表

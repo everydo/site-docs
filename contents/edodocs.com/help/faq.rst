@@ -1,10 +1,12 @@
 ---
-created: 2012-02-29 15:22
+created: 2012-02-29 15:22:00
 creator: 潘俊勇
 description: ''
 title: 常见问题 FAQ
 ---
-
+=============
+常见问题 FAQ
+=============
 
 .. image:: img/faq.jpg
    :class: float-right

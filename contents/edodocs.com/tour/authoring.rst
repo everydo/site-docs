@@ -1,5 +1,5 @@
 ---
-created: 2010-03-18 15:07
+created: 2010-03-18 15:07:00
 creator: 潘俊勇
 description: ''
 title: 　协作和编写

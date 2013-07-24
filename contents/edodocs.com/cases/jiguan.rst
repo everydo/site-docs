@@ -1,5 +1,5 @@
 ---
-created: 2012-05-09 17:06
+created: 2012-05-09 17:06:00
 creator: 黄恒森
 description: ''
 title: 宁波技冠智能科技签约易度-启用文档管理软件

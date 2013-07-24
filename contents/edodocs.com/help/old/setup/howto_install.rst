@@ -1,5 +1,5 @@
 ---
-created: 2010-06-02 09:58
+created: 2010-06-02 09:58:00
 creator: 小罗
 description: ''
 title: 怎么安装？易度文档系统安装指南

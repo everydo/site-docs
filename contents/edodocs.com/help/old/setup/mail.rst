@@ -1,5 +1,5 @@
 ---
-created: 2010-06-02 09:58
+created: 2010-06-02 09:58:00
 creator: 小罗
 description: ''
 title: 如何配置和修改文档系统的邮件服务器？

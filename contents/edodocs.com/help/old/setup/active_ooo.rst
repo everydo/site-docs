@@ -1,5 +1,5 @@
 ---
-created: 2010-06-02 09:58
+created: 2010-06-02 09:58:00
 creator: 小罗
 description: ''
 title: 如何激活openoffice获取更好的文档预览效果？

@@ -1,5 +1,5 @@
 ---
-created: 2011-06-17 14:23
+created: 2011-06-17 14:23:00
 creator: 罗建峰
 description: ''
 title: 　文档外发控制系统

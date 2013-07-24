@@ -1,5 +1,5 @@
 ---
-created: 2010-06-02 10:07
+created: 2010-06-02 10:07:00
 creator: 小罗
 description: ''
 title: 需要自己购买数据库吗？

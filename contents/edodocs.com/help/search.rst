@@ -1,5 +1,5 @@
 ---
-created: 2011-10-25 14:25
+created: 2011-10-25 14:25:00
 creator: Ken
 description: ''
 title: 　分类和搜索
