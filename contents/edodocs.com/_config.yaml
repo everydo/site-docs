@@ -3,7 +3,5 @@ exclude: ['*.png', img, '*.htm', include.rst, index.rst.old, indexcol.rst.moved,
   demo.rst, cert, essay.rst, indexcol.rst, signup.rst, robots.txt, forum.rst, maintain.rst,
   download.rst]
 order: [index.rst, tour, solutions, cases, pricing, help, blog]
-theme: index.html
-theme_base: http://localhost:6543/themes/edodocs.com/
-theme_default: index.html
+theme_base: http://download.zopen.cn/themes/edodocs.com/
 title: 易度文档管理系统 - 企业文档管理软件工具（包括文档管理系统,ISO文控系统,档案管理系统等）
