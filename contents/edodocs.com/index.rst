@@ -171,6 +171,7 @@ title: 首页
 .. news::
    :path: blog
    :size: 4
+   :class: blog
 
 .. raw:: html
 
