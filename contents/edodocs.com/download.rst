@@ -11,7 +11,7 @@ title: 免费下载
 
     <p>如在安装和试用过程中有任何问题，可联系我们的销售顾问。</p>
     
-    <p>咨询热线：<b>020-38055596 400106683</b></p>
+    <p>咨询热线：<b>020-38055596 4001066883</b></p>
 
     <div id="nabblesignup" style="width: 100%">
          <iframe name="signupFrame" id="signupFrame" width="100%" height="620px" scrolling="no" frameborder="0" src="http://zopen.easydo.cn/default/sales/inquiry_form/@@@zopen.sales.survey">
