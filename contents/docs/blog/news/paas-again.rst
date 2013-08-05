@@ -15,11 +15,11 @@ title: 易度定制开发文档上线
 也是易度值得倾尽全力去打造的未来。
 这就是所谓的PaaS： Platform as a Service，开发平台即服务。
 
-做为易度平台年的第一步，易度完善了 `易度开发平台网站 <http://paas.everydo.com>`__ ，并提供了一组最新的定制教程文档。
+做为易度平台年的第一步，易度完善了 `易度开发平台网站 <http://developer.everydo.com>`__ ，并提供了一组最新的定制教程文档。
 
 详细包括：
 
-- `易度PaaS快速介绍 <http://paas.everydo.com/tour>`__
+- `易度PaaS快速介绍 <http://developer.everydo.com/tour>`__
 - `《易度系统定制指南》 <http://download.zopen.cn/releases/docs/%E6%98%93%E5%BA%A6%E7%B3%BB%E7%BB%9F%E5%AE%9A%E5%88%B6%E6%8C%87%E5%8D%97.pdf>`__ 
 - `《易度脚本开发指南》 <http://download.zopen.cn/releases/docs/%E6%98%93%E5%BA%A6%E8%84%9A%E6%9C%AC%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.pdf>`__ 
 
