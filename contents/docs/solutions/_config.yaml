@@ -1,5 +1,5 @@
 description: ''
 exclude: [img, index.rst, pic, fields.rst]
-order: [fields.rst, edm.rst, archive.rst, isodoc.rst, contract.rst, paper.rst, project.rst,
+order: [fields.rst, edm.rst, archive.rst, tech.rst, isodoc.rst, contract.rst, paper.rst, project.rst,
   leakprotect.rst, jinchuanquan.rst, digital.rst]
 title: 解决方案
