@@ -4,6 +4,7 @@ creator: 黄恒森
 description: ''
 title: 文档进出安全网关
 ---
+
 ========================================
 文档进出安全网关
 ========================================
@@ -68,3 +69,7 @@ title: 文档进出安全网关
 
 .. image:: img/jinchuanquan-img004.png
    :alt: 文档进出安全网关-我的工作台
+
+.. raw:: html
+
+  <h3><a href="/download.rst" rel="nofollow">下载易度文档管理</a></h3>
