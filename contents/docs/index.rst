@@ -101,7 +101,7 @@ title: 首页
             <div class="clear" style="text-align: center">
                     更多解决方案：
                        <a href="/solutions/contract.rst" target="_blank">合同管理</a>、
-                       <a href="/solutions/paper.rst" target="_blank">文档影像管理</a>、
+                       <a href="/solutions/paperless.rst" target="_blank">无纸化办公</a>、
                        <a href="/solutions/leakprotect.rst" target="_blank">文档安全管理</a>、
                        <a href="/solutions/jinchuanquan.rst" target="_blank">文档进出安全网关</a>、
                        <a href="/solutions/project.rst" target="_blank">项目文档管理</a>、
