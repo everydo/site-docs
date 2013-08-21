@@ -2,22 +2,14 @@
 created: 2010-04-09 17:32:00
 creator: pjy
 description: ''
-title: 质量文档管控(ISO/GMP)
+title: 质量文件管控(ISO/GMP)
 ---
 
 ==========================
-质量文档管控(ISO/GMP)
+质量文件管控(ISO/GMP)
 ==========================
 
 .. image:: pic/edodocs-isodoc-image001.jpg
-
-.. image:: img/show.gif
-   :class: float-right
-   :target: http://isodoc.oc.everydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fisodoc.everydo.cn&isdocsdemo=1
-   :alt: 试用文控系统
-
-.. contents::
-   :depth: 1
 
 .. sectnum::
 
@@ -28,7 +20,7 @@ title: 质量文档管控(ISO/GMP)
 
 主要文件类型包括：质量手册、程序文件、作业指导书、表单文件、工艺文件、技术图纸、代码文件、报告。
 
-主要适用于制造型企业、建筑工程公司、设计公司、研究型企业以及其它希望采用标准文档质量管理体系的企业。
+主要适用于制造型企业、医药、生物、建筑工程公司、设计公司、研究型企业以及其它希望采用标准文档质量管理体系的企业。
 
 解决的问题
 ===================
