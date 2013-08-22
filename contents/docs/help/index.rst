@@ -100,6 +100,29 @@ title: 资源列表
        - 易度开放API的详细说明与开发示例
 
 
+   * - 
+     - 常见问题
+
+       - `安装部署 <init.rst>`_
+       - `系统问题 <sysfaq.rst>`_
+       - `转换预览 <preview.rst>`_
+       - `账户服务 <service.rst>`_
+       - `权限问题 <permission.rst>`_
+       - `文件上传 <upload.rst>`_
+       - `文档协作 <edit-cooperation.rst>`_
+       - `分类搜索 <search.rst>`_
+
+     - 说明
+
+       - 在安装过程中可能会遇到的一些问题及解决方法
+       - 系统级别的问题，技术应对方案等
+       - 关于文档的转换及在线预览查看的相关问题
+       - 系统中用户的导入、删除、修改等问题
+       - 系统权限设置，加密问题
+       - 文件在上传导入过程中可能会遇到的问题
+       - 包括在线编辑、版本管理等相关问题
+       - 系统搜索功能相关问题及解释
+
 .. raw:: html
 
     <script src="http://viewer.everydo.com:9870/static/api.js"></script>
