@@ -64,48 +64,45 @@ title: 首页
         <a name="demo"></a>
         <div class="box_x box_demo">
             <ul>
-                <li class="recommend">
-                    <h3>易度企业文档管理</h3>
-                    <p>
-                        通用的文档集中管理方案<br />
-                        简单易用、方便实施<br />
-                        文档云端协作分享、权限管控<br />
-                        <br />
-                    </p>
-                    <p style="line-height:3em;"><a href="http://dms.oc.easydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fdms.easydo.cn&isdocsdemo=1" target="_blank" class="login-bt login-bt-recommend">在线试用</a></p>
-                    <p><a href="/solutions/edm.rst" target="_blank">详细了解&raquo;</a></p>
-                </li>
                 <li>
-                    <h3>易度档案管理</h3>
+                    <h3>企业档案管理</h3>
                     <p>
                         企业档案电子化管理方案<br />
                         规范管理、高效易用<br />
                         包括入库、整理、发布、查询、借阅等<br />
                         <br />
                     </p>
-                    <p style="line-height:3em;"><a href="http://archive.oc.everydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Farchive.everydo.cn&isdocsdemo=1" target="_blank" class="login-bt">在线试用</a></p>
-                    <p><a target="_blank" href="/solutions/archive.rst">详细了解&raquo;</a></p>
+                    <p style="line-height:3em;"><a class="login-bt" href="solutions/archive.rst">了解试用</a></p>
+                </li>
+                <li class="recommend">
+                    <h3>部门文档管理</h3>
+                    <p>
+                        企业各部门文档集中管理方案<br />
+                        简单易用、方便实施<br />
+                        文档云端协作分享、权限管控<br />
+                        <br />
+                    </p>
+                    <p style="line-height:3em;"><a class="login-bt login-bt-recommend" href="solutions/edm.rst">了解试用</a></p>
                 </li>
                 <li>
-                    <h3>文档管控系统</h3>
+                    <h3>技术文档和图纸管理</h3>
                     <p>
                         全生命周期的文档流程管控<br />
                         更高文档质量，管控使用环节<br />
-                        适合ISO体系文件管控、技术文件的管控<br />
+                        适合产品相关技术文件的管控<br />
                         <br />
                     </p>
-                    <p style="line-height:3em;"><a href="http://isodoc.oc.everydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fisodoc.everydo.cn&isdocsdemo=1" target="_blank" class="login-bt">在线试用</a></p>
-                    <p><a target="_blank" href="/solutions/isodoc.rst">详细了解&raquo;</a></p>
+                    <p style="line-height:3em;"><a class="login-bt" href="solutions/tech.rst">了解试用</a></p>
                 </li>
             </ul>
             <div class="clear" style="text-align: center">
                     更多解决方案：
-                       <a href="/solutions/contract.rst" target="_blank">合同管理</a>、
-                       <a href="/solutions/paperless.rst" target="_blank">无纸化办公</a>、
-                       <a href="/solutions/leakprotect.rst" target="_blank">文档安全管理</a>、
-                       <a href="/solutions/jinchuanquan.rst" target="_blank">文档进出安全网关</a>、
-                       <a href="/solutions/project.rst" target="_blank">项目文档管理</a>、
-                       <a href="/solutions/digital.rst" target="_blank">数字资产管理</a>
+                       <a href="solutions/contract.rst" target="_blank">合同管理</a>、
+                       <a href="solutions/paperless.rst" target="_blank">无纸化办公</a>、
+                       <a href="solutions/leakprotect.rst" target="_blank">文档安全管理</a>、
+                       <a href="solutions/jinchuanquan.rst" target="_blank">文档进出安全网关</a>、
+                       <a href="solutions/project.rst" target="_blank">项目文档管理</a>、
+                       <a href="solutions/knowledge.rst" target="_blank">企业知识库</a>
             </div>
         </div>
 

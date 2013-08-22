@@ -8,8 +8,6 @@ title: 文档安全管理
 　文档安全管理
 ===================================
 
-.. contents::
-   :depth: 2
 .. sectnum::
 
 
@@ -243,3 +241,7 @@ title: 文档安全管理
 .. raw:: html
 
   <h3><a href="http://download.zopen.cn/releases/docs/%E6%98%93%E5%BA%A6%E6%96%87%E6%A1%A3%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86.pdf" rel="nofollow">下载《文档安全管理介绍》</a></h3>
+
+.. raw:: html
+
+  <h3><a href="/download.rst" rel="nofollow">下载易度文控管理</a></h3>
