@@ -104,7 +104,7 @@ title: 资源列表
      - 常见问题
 
        - `安装部署 <init.rst>`_
-       - `系统问题 <sysfaq.rst>`_
+       - `系统维护 <sysfaq.rst>`_
        - `转换预览 <preview.rst>`_
        - `账户服务 <service.rst>`_
        - `权限问题 <permission.rst>`_

@@ -1,4 +1,4 @@
 description: ''
 exclude: [img]
-order: [index.rst, maintain.rst, daili.rst]
+order: [index.rst, addons.rst, maintain.rst, daili.rst]
 title: 产品购买
