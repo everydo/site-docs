@@ -67,7 +67,7 @@ title: 首页
                 <li class="recommend">
                     <h3>部门文档管理</h3>
                     <p>
-                        企业各部门文档集中管理方案<br />
+                        企业各部门文档集中管理<br />
                         简单易用、方便实施<br />
                         文档云端协作分享、权限管控<br />
                         <br />
@@ -91,9 +91,9 @@ title: 首页
                        <a href="solutions/paperless.rst" target="_blank">无纸化办公</a> | 
                        <a href="solutions/contract.rst" target="_blank">合同管理</a>
                        <br />
-                       <a href="solutions/leakprotect.rst" target="_blank">文档安全管理</a>、
+                       <a href="solutions/leakprotect.rst" target="_blank">文档安全管理</a>
                        <br />
-                       <a href="solutions/jinchuanquan.rst" target="_blank">文档进出安全网关</a>、
+                       <a href="solutions/jinchuanquan.rst" target="_blank">文档进出安全网关</a>
                        <br />
                        <a href="solutions/project.rst" target="_blank">项目文档管理</a> |
                        <a href="solutions/knowledge.rst" target="_blank">企业知识库</a>
