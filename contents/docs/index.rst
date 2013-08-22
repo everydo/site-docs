@@ -64,16 +64,6 @@ title: 首页
         <a name="demo"></a>
         <div class="box_x box_demo">
             <ul>
-                <li>
-                    <h3>企业档案管理</h3>
-                    <p>
-                        企业档案电子化管理方案<br />
-                        规范管理、高效易用<br />
-                        包括入库、整理、发布、查询、借阅等<br />
-                        <br />
-                    </p>
-                    <p style="line-height:3em;"><a class="login-bt" href="solutions/archive.rst">了解试用</a></p>
-                </li>
                 <li class="recommend">
                     <h3>部门文档管理</h3>
                     <p>
@@ -94,15 +84,26 @@ title: 首页
                     </p>
                     <p style="line-height:3em;"><a class="login-bt" href="solutions/tech.rst">了解试用</a></p>
                 </li>
+                <li>
+                    <p><a href="solutions/archive.rst">档案管理</a> |
+                       <a href="solutions/iso.rst" target="_blank">ISO文控</a> 
+                       <br />
+                       <a href="solutions/paperless.rst" target="_blank">无纸化办公</a> | 
+                       <a href="solutions/contract.rst" target="_blank">合同管理</a>
+                       <br />
+                       <a href="solutions/leakprotect.rst" target="_blank">文档安全管理</a>、
+                       <br />
+                       <a href="solutions/jinchuanquan.rst" target="_blank">文档进出安全网关</a>、
+                       <br />
+                       <a href="solutions/project.rst" target="_blank">项目文档管理</a> |
+                       <a href="solutions/knowledge.rst" target="_blank">企业知识库</a>
+                        <br />
+                        <br />
+                    </p>
+                    <p style="line-height:3em;"><a class="login-bt" href="solutions/">更多方案</a></p>
+                </li>
             </ul>
             <div class="clear" style="text-align: center">
-                    更多解决方案：
-                       <a href="solutions/contract.rst" target="_blank">合同管理</a>、
-                       <a href="solutions/paperless.rst" target="_blank">无纸化办公</a>、
-                       <a href="solutions/leakprotect.rst" target="_blank">文档安全管理</a>、
-                       <a href="solutions/jinchuanquan.rst" target="_blank">文档进出安全网关</a>、
-                       <a href="solutions/project.rst" target="_blank">项目文档管理</a>、
-                       <a href="solutions/knowledge.rst" target="_blank">企业知识库</a>
             </div>
         </div>
 
