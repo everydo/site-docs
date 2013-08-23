@@ -5,12 +5,17 @@ description: ''
 title: 文档进出安全网关
 ---
 
+.. sectnum::
+
 ========================================
 文档进出安全网关
 ========================================
 
-.. contents::
-.. sectnum::
+.. sidebar:: 相关资源
+
+   - `下载试用版 <../download.rst>`__
+   - `快速了解系统功能 <../tour/>`__
+
 
 安全网关概述
 ---------------------
@@ -70,6 +75,3 @@ title: 文档进出安全网关
 .. image:: img/jinchuanquan-img004.png
    :alt: 文档进出安全网关-我的工作台
 
-.. raw:: html
-
-  <h3><a href="/download.rst" rel="nofollow">下载易度文档管理</a></h3>

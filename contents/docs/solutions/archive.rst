@@ -10,19 +10,18 @@ title: 档案管理
 
 .. image:: img/edodocs-archive001.jpg
 
-.. image:: img/edodocs-archive045.png
-   :class: float-right
-   :target: http://archive.oc.everydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Farchive.everydo.cn&isdocsdemo=1
-
-
-
-
-.. contents::
-   :depth: 1
 .. sectnum::
 
 档案管理系统概述
 ==========================
+
+.. sidebar:: 相关资源
+
+   - `下载试用版 <../download.rst>`__
+   - `在线试用 <http://archive.oc.everydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Farchive.everydo.cn&isdocsdemo=1>`__
+   - `快速了解系统功能 <../tour/>`__
+   - `《易度档案管理介绍》 <http://download.zopen.cn/releases/docs/易度档案管理系统介绍.pdf>`__
+
 
 易度档案管理系统是广州润普网络科技有限公司专门为档案管理设计开发的软件系统，遵循国家档案局《归档文件整理规则》内容和集中统一管理档案，维护档案的完整与安全，便于利用的原则。它具备高效、高质、简单、实用的特点。
 
@@ -232,64 +231,3 @@ OCR智能识别和转换
    :width: 347px
 
 
-强大的定制和集成功能
-================================
-
-高可定制性
-------------------
-易度档案管理系统是一个高可定制性的系统，可以根据用户的需求进行个性化的调整与修改。满足不同组织对档案管理的不同需求。 包括界面、栏目、扩展属性、规则、表单等都可以进行定制。
-
-
-自定义视图和列显示
-...........................
-文件夹(案卷)内容列表中，可自定义显示列
-
-.. image:: img/archive-img027.png
-   :alt: 自定义视图和列显示
-   :width: 400px
-
-自定义栏目
-..................
-可安装插件应用，添加新的栏目
-
-.. image:: img/archive-img028.png
-   :alt: 自定义栏目
-   :width: 400px
-
-自定义扩展属性
-..................
-可根据档案管理的需求，新增或者调整档案扩展属性
-
-.. image:: img/archive-img029.png
-   :alt: 自定义扩展属性
-   :width: 400px
-
-自定义规则
-.......................
-每个文件夹，可设置档案管理的规则，实现档案管理自动化
-
-.. image:: img/archive-img030.png
-   :alt: 自定义规则
-   :width: 400px
-
-
-高可扩展性
-----------------
-系统有众多插件可供选用，可安装ISO文控、文档防泄密控制等其它应用
-
-.. image:: img/archive-img025.png
-   :alt: 档案管理系统的高可扩展性
-   :width: 400px
-
-
-强大的集成性
-------------------
-易度档案管理系统提供开发的API接口，可无缝集成企业的业务系统如：ERP、PDM、CRM、OA、财务系统、企业门户等，已实现标准的SSO单点登录。
-
-.. image:: img/edodocs-archive045.png
-   :target: http://archive.oc.everydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Farchive.everydo.cn&isdocsdemo=1
-
-
-.. raw:: html
-
-  <h3><a href="/download.rst" rel="nofollow">下载易度档案管理</a></h3>
