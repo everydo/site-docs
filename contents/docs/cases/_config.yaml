@@ -4,4 +4,4 @@ exclude: [img, wangyi.rst, antai.rst, dms_ctl.rst, guoji.rst, jiantao.rst, jsyou
   263.rst, huabeishangsha.rst, jiayou.rst, jiguan.rst, tmax.rst]
 order: [gov, wangyi.rst, wenhuabu.rst, shanghang.rst, shangxin.rst, guangda.rst, nanhai.rst,
   guoji.rst]
-title: 客户案例
+title: 行业客户
