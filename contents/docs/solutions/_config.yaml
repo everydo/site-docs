@@ -2,4 +2,4 @@ description: ''
 exclude: [img, index.rst, pic, fields.rst]
 order: [fields.rst, edm.rst, archive.rst, tech.rst, isodoc.rst, paperless.rst, contract.rst, project.rst, knowledge.rst,
   leakprotect.rst, jinchuanquan.rst, digital.rst, paper.rst]
-title: 解决方案
+title: 领域方案
