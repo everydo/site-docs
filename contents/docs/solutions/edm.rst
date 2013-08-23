@@ -11,6 +11,12 @@ title: 部门文档管理
 
 .. sectnum::
 
+.. sidebar:: 相关资源
+
+   - `下载试用版 <../download.rst>`__
+   - `在线试用 <http://dms.oc.easydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fdms.easydo.cn&isdocsdemo=1>`__
+   - `快速了解系统功能 <../tour/>`__
+   - `《企业文档管理介绍.pdf》 <http://download.zopen.cn/releases/docs/%E6%98%93%E5%BA%A6%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D.pdf>`__
 
 易度文档管理系统基于知识管理的理念，开发的一套用于企业文档资料管理、知识管理的软件系统，帮助企业进行文档的全生命周期管理。
 
@@ -233,10 +239,3 @@ title: 部门文档管理
 - 可以通过收藏夹方便快捷地进行文件查找和定位 
 
 
-.. raw:: html
-
-  <h3><a href="http://download.zopen.cn/releases/docs/%E6%98%93%E5%BA%A6%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D.pdf" rel="nofollow">查看《企业文档管理介绍》</a></h3>
-
-.. raw:: html
-
-  <h3><a href="/download.rst" rel="nofollow">下载易度文档管理</a></h3>

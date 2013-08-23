@@ -13,6 +13,12 @@ title: 质量文件管控(ISO/GMP)
 
 .. sectnum::
 
+.. sidebar:: 相关资源
+
+   - `下载试用版 <../download.rst>`__
+   - `在线试用 <http://isodoc.oc.everydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fisodoc.everydo.cn&isdocsdemo=1>`__
+   - `快速了解系统功能 <../tour/>`__
+
 企业通过遵循ISO/GMP等质量体系文件标准，确保产品的质量。 质量体系文件，包括：质量手册、程序文件、作业指导书、表单文件、工艺文件、技术图纸、代码文件、报告等。
 
 易度质量文档管控系统遵循国际文档质量体系标准，对文档的编制、修改、审核、分发、收回、借阅、废止、回顾等流程进行全生命周期的电子化管理。
@@ -64,9 +70,3 @@ title: 质量文件管控(ISO/GMP)
 可与现有办公系统集成
         易度文控管理系统提供开发的API接口，可无缝集成企业的业务系统如：ERP、PDM、CRM、OA、财务系统、企业门户等，已实现标准的SSO单点登录。
 
-.. image:: img/show.gif
-   :target: http://isodoc.oc.everydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fisodoc.everydo.cn&isdocsdemo=1
-
-.. raw:: html
-
-  <h3><a href="/download.rst" rel="nofollow">下载易度文控管理</a></h3>
