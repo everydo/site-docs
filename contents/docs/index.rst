@@ -184,8 +184,8 @@ title: 首页
         <div class="box_x box_customers">
             <h2 class="center">从2002到2013，数以千计客户选择“易度文档管理系统”</h2>
             <ul class="box">
-                <li><img src="./cases/gov/img/zongcan.gif" /></li>
-                <li><img src="./cases/gov/img/yunnanbudui.png" /></li>
+                <li><img src="./cases/army/img/zongcan.gif" /></li>
+                <li><img src="./cases/army/img/yunnanbudui.png" /></li>
                 <li><img src="./cases/gov/img/xzgsj.gif" /></li>
                 <li><img src="./cases/img/logo-swgs.gif" /></li>
                 <li><img src="./cases/img/logo-puyangdishui.png" /></li>
