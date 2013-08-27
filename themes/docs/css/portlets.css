@@ -93,3 +93,6 @@ padding: 0.5em 0;
 #content {
 font-size: 13px
 }
+#content a{
+text-decoration: initial;
+}
