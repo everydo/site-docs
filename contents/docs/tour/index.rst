@@ -270,3 +270,5 @@ title: 产品介绍
 
 .. image:: picture/tour-deploy.png
    :alt: 部署方案
+
+为什么选择易度？可查看 `易度的优势 <why-edo.rst>`__
