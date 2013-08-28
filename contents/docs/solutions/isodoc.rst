@@ -2,11 +2,11 @@
 created: 2010-04-09 17:32:00
 creator: pjy
 description: ''
-title: 质量文件管控(ISO/GMP)
+title: ISO/GMP体系文件管控
 ---
 
 ==========================
-质量文件管控(ISO/GMP)
+ISO/GMP质量体系文件管控
 ==========================
 
 .. image:: pic/edodocs-isodoc-image001.jpg

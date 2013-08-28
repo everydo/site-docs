@@ -47,8 +47,8 @@ title: 首页
                 <div class="clear"></div>
                 <p style="margin-bottom:5px;">
                     <a href="http://www.edodocs.com/download.rst" target="_blank" class="download">立即下载使用</a>
-                    <a href="/tour">详细介绍</a> /
-                    <a href="/pricing">产品购买</a>
+                    <a href="tour/">详细介绍</a> /
+                    <a href="pricing/">产品购买</a>
                 </p>
                 <p style="padding-left:20px;color:#666; font-size:11px;">累计下载 5,0000+， Windows 一键安装</p>
                 <p>
