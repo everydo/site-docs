@@ -1,0 +1,9 @@
+*.bak
+.installed.cfg
+bin/
+eggs/
+parts/
+develop-eggs/
+*.*~
+.*.swp
+
