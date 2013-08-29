@@ -56,11 +56,6 @@ title: 文档管理系统 V3.0.50 版即将发布
    .. image:: img/v49-site-team.png
       :width: 400
 
-#. 专辑功能，将一组相互关联的文档收集在一起
-
-   .. image:: img/v49-collection.png
-      :width: 500
-
 #. 分离索引数据的存放，更好的支持NAS网络硬盘
 
 #. 简化待办事项，只需一个添加按钮，自动维护最近的快捷添加菜单
