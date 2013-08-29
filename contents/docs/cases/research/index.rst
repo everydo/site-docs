@@ -8,10 +8,10 @@ title: 研究院文档管控
 
 .. sidebar:: 客户案例
 
-   .. image:: img/logo-czzny.png
+   .. image:: img/logo-czzny.jpg
       :alt: 常州智能农业装备研究院
       :target: czzny.rst
-
+      :width: 200
 
 概述
 ====================
@@ -75,8 +75,9 @@ title: 研究院文档管控
 
 `常州智能农业装备研究院 <czzny.rst>`_
 -------------------------------------------------------------------------------
-.. image:: img/logo-czzny.png
+.. image:: img/logo-czzny.jpg
    :class: float-right
+   :width: 200
 
 常州智能农业装备研究院是由多位海外华人科学家共同组建的民营科技单位,专注于
 现代农业技术、农业及工程装备的核心技术开发和推广。
