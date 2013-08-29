@@ -13,7 +13,6 @@
                <ul>
                    <li><a href="/blog/history/">版本历史</a></li>
                    <li><a href="/blog/tips/">功能介绍</a></li>
-                   <li><a href="/blog/interview/">客户案例</a></li>
                </ul>
             </dd>
          </dl>
