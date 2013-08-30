@@ -3,7 +3,7 @@
     <div id="leftcolumn" class="edoBox">
         <dl class="portlet portlet-navigation-tree">
             <dt class="portletHeader">
-                <a class="title" href="http://www.edodocs.com/cases/">客户案例</a>
+                <a class="title" href="http://www.edodocs.com/cases/">行业方案</a>
             </dt>
             <dd class="portletItem">
 
@@ -21,6 +21,28 @@
     <div>
         <!-- -->
     </div>
+    </dd>
+    </dl>
+
+    <div id="leftcolumn" class="edoBox">
+        <dl class="portlet portlet-navigation-tree">
+            <dt class="portletHeader">
+                <a class="title" href="all.rst">最新案例</a>
+            </dt>
+            <dd class="portletItem">
+
+.. news::
+   :path: cases
+   :size: 5
+   :class: blog
+
+
+.. raw:: html
+
+   <dd class="portletFooter">
+    <p>
+        <a href="all.rst">查看全部案例</a>
+    </p>
     </dd>
     </dl>
 
