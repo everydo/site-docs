@@ -1,8 +1,5 @@
 ---
-created:
-  description: ''
-  title: 南海发展 - 企业文档管理系统
-creator: ''
+created: 2008-10-10 10:10:00
 description: ''
 title: 南海发展 - 企业文档管理系统
 ---

@@ -33,7 +33,7 @@
 
 .. news::
    :path: cases
-   :size: 5
+   :size: 10
    :class: blog
 
 

@@ -1,4 +1,4 @@
 description: ''
-exclude: [index.rst, cbk.rst, guangda.rst, img, bankcomm.rst]
+exclude: [index.rst, img]
 order: []
 title: 金融保险

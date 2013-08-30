@@ -1,4 +1,5 @@
 ---
+created: 2005-05-09 12:12:00
 creator: ''
 description: ''
 title: 中国文化部 - 文化信息资源网络传输系统

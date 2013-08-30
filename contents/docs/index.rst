@@ -107,6 +107,51 @@ title: 首页
             </div>
         </div>
 
+        <div class="box_x box_others">
+            <div class="others">
+                <ul>
+                    <li style="margin-left: 0">
+                        <h3>行业解决方案</h3>
+                        <div>
+                            <p><a href="./cases/consult/">咨询、法律服务业</a></p>
+                            <p><a href="./cases/media/">媒体出版社</a>，
+                                <a href="./cases/research/">设计研究院</a></p>
+                            <p><a href="./cases/education/">教育行业</a>，
+                                <a href="./cases/financial/">金融保险</a></p>
+                            <p><a href="./cases/manufact/">制造业</a>，
+                                <a href="./cases/gov/">政府、行政事业单位</a></p>
+                        </div>
+                    </li>
+                    <li style="margin-left:0">
+                        <h3>成功案例 <a href="cases/all.rst" style="font-weight:400;">更多&raquo;</a></h3>
+                        <div>
+.. news::
+   :path: cases
+   :size: 4
+   :class: blog
+
+.. raw:: html
+
+                        </div>
+                    </li>
+                    <li>
+                        <h3>最新动态 <a href="blog/" style="font-weight:400;">更多&raquo;</a></h3>
+                        <div>
+
+.. news::
+   :path: blog
+   :size: 4
+   :class: blog
+
+.. raw:: html
+
+                        </div>
+                    </li>
+                </ul>
+                <div class="clear"></div>
+            </div>
+        </div>
+
         <div class="box_x box_feature">
             <h2 class="center">解决企业文档管理 <span>6</span> 大基础难题</h2>
             <div class="features">
@@ -140,40 +185,6 @@ title: 首页
                         <h3>6，知识管理</h3>
                         <p class="q">员工离职，导致企业知识流失，缺少知识平台。</p>
                         <p>易度建立企业知识的导航、分类体系，理清知识脉络；建立多种沟通渠道，挖掘、传播隐性知识。</p>
-                    </li>
-                </ul>
-                <div class="clear"></div>
-            </div>
-        </div>
-
-
-        <div class="box_x box_others">
-            <div class="others">
-                <ul>
-                    <li style="margin-left:20%">
-                        <h3>行业解决方案</h3>
-                        <div>
-                            <p><a href="./cases/consult/">咨询、法律服务业</a></p>
-                            <p><a href="./cases/media/">媒体出版社</a>，
-                                <a href="./cases/research/">设计研究院</a></p>
-                            <p><a href="./cases/education/">教育行业</a>，
-                                <a href="./cases/financial/">金融保险</a></p>
-                            <p><a href="./cases/manufact/">制造业</a>，
-                                <a href="./cases/gov/">政府、行政事业单位</a></p>
-                        </div>
-                    </li>
-                    <li>
-                        <h3>最新动态 <a href="/blog/" style="font-weight:400;">更多&raquo;</a></h3>
-                        <div>
-
-.. news::
-   :path: blog
-   :size: 4
-   :class: blog
-
-.. raw:: html
-
-                        </div>
                     </li>
                 </ul>
                 <div class="clear"></div>
