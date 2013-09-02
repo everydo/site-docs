@@ -1,5 +1,4 @@
 description: ''
 exclude: [old, img, index.rst]
-order: [consulting.rst, download.rst, faq.rst, init.rst, sysfaq.rst, preview.rst, service.rst, 
-permission.rst, upload.rst, edit-cooperation.rst, search.rst]
+order: [consulting.rst, download.rst, faq.rst, init.rst, upload.rst, edit-cooperation.rst, search.rst, preview.rst, permission.rst, sysfaq.rst, service.rst]
 title: 下载与支持
