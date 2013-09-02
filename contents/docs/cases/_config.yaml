@@ -1,7 +1,4 @@
 description: ''
-exclude: [img, all.rst, wangyi.rst, antai.rst, dms_ctl.rst, guoji.rst, jiantao.rst, jsyoudian.rst,
-  shanghang.rst, shangxin.rst, zhonghang.rst, index.rst, keli.rst, huanchuang.rst,
-  263.rst, huabeishangsha.rst, jiayou.rst, jiguan.rst, tmax.rst]
-order: [gov, wangyi.rst, wenhuabu.rst, shanghang.rst, shangxin.rst, guangda.rst, nanhai.rst,
-  guoji.rst]
+exclude: [img, all.rst, index.rst]
+order: [gov, chem]
 title: 行业客户
