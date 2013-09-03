@@ -5,7 +5,7 @@ description: ''
 title: 广州网易游戏事业部 - 知识门户
 ---
 
-.. image:: ../img/logo-wangyi.gif
+.. image:: img/logo-wangyi.gif
    :class: float-right
 
 

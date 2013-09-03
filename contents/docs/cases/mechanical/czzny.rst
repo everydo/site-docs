@@ -8,7 +8,7 @@ title: 常州智能农业装备研究院
 常州智能农业装备研究院
 ========================================
 
-.. image:: img/logo-czzny.jpg
+.. image:: img/logo-czzny.png
    :class: float-right
    :width: 200
 
