@@ -27,7 +27,7 @@
     <div id="leftcolumn" class="edoBox">
         <dl class="portlet portlet-navigation-tree">
             <dt class="portletHeader">
-                <a class="title" href="all.rst">最新案例</a>
+                <a class="title" href="all.rst">部分案例</a>
             </dt>
             <dd class="portletItem">
 
