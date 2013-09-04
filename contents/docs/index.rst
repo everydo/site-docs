@@ -111,11 +111,11 @@ title: 首页
             <div class="others">
                 <ul>
                     <li style="margin-left: 0">
-                        <h3>行业解决方案</h3>
+                        <h3>行业方案 <a href="cases/" style="font-weight:400;">更多&raquo;</a></h3>
                         <div>
                             <p><a href="./cases/consult/">咨询、法律服务业</a></p>
                             <p><a href="./cases/media/">媒体出版社</a>，
-                                <a href="./cases/research/">设计研究院</a></p>
+                                <a href="./cases/engineer/">工程与建筑</a></p>
                             <p><a href="./cases/education/">教育行业</a>，
                                 <a href="./cases/financial/">金融保险</a></p>
                             <p><a href="./cases/manufact/">制造业</a>，
