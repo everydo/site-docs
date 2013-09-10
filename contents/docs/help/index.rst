@@ -13,6 +13,7 @@ title: 资源列表
 .. |download| image:: img/down.gif
 .. |pdf| image:: img/pdf.gif
 .. |read| image:: img/read.gif
+.. |faq| image:: img/faq.jpg
 
 .. image:: img/support.png
    :class: topimg
@@ -100,7 +101,7 @@ title: 资源列表
        - 易度开放API的详细说明与开发示例
 
 
-   * - 
+   * - |faq|
      - 常见问题
 
        - `安装部署 <init.rst>`_
