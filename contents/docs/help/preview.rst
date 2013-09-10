@@ -24,7 +24,7 @@ title: 　转换预览
 - 代码：.java,.c,.cpp,.jsp,.asp,.py,.as,.h
 - 图片：bmp、jpg、png、gif、tiff
 - 设计：cdr（5.0版）、ai
-- 图纸：dwg、Pro/ENGINEER: PRT 、CALCOMP: PLT、 Protel: PCB、 IIIustrator: AI、Unigraphics: PRT catia/cati5: CATPart、Inventor: IAM、SolidEdge: ASM, ASM、SolidWorks: SLDASM, SLDPRT EDA: PCB,SCH
+- 图纸：dwg、Pro/ENGINEER: PRT 、CALCOMP: PLT、 Protel: PCB、 IIIustrator: AI、Unigraphics: PRT catia/cati5: CATPart、Inventor: IAM、SolidEdge: ASM, ASM、SolidWorks: SLDASM, SLDPRT EDA: PCB,SCH, STP
 - 电路板：Protel/PCB
 - 音频：mp3、wma、rm、wav、mid
 - 视频：avi、rmvb、mov、mp4、swf、flv、mpg、ram
