@@ -75,11 +75,11 @@ title: 首页
                     <p style="line-height:3em;"><a class="login-bt login-bt-recommend" href="solutions/edm.rst">了解试用</a></p>
                 </li>
                 <li>
-                    <h3>技术文档和图纸管理</h3>
+                    <h3>产品图文档管理</h3>
                     <p>
-                        全生命周期的文档流程管控<br />
-                        更高文档质量，管控使用环节<br />
-                        适合产品相关技术文件的管控<br />
+                        轻量级的PDM/PLM系统<br />
+                        产品文档图纸集中存档<br />
+                        审批、变更、借阅等流程<br />
                         <br />
                     </p>
                     <p style="line-height:3em;"><a class="login-bt" href="solutions/tech.rst">了解试用</a></p>
