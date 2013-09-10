@@ -13,7 +13,7 @@ title: 资源列表
 .. |download| image:: img/down.gif
 .. |pdf| image:: img/pdf.gif
 .. |read| image:: img/read.gif
-.. |faq| image:: img/faq.jpg
+.. |faq| image:: img/bulb.gif
 
 .. image:: img/support.png
    :class: topimg
