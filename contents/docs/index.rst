@@ -91,7 +91,7 @@ title: 首页
                        <a href="solutions/paperless.rst" target="_blank">无纸化办公</a> | 
                        <a href="solutions/contract.rst" target="_blank">合同管理</a>
                        <br />
-                       <a href="solutions/leakprotect.rst" target="_blank">文档安全管理</a>
+                       <a href="solutions/marketing.rst" target="_blank">经销商门户</a>
                        <br />
                        <a href="solutions/jinchuanquan.rst" target="_blank">文档进出安全网关</a>
                        <br />
