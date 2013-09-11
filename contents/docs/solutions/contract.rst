@@ -2,7 +2,7 @@
 created: 2013-07-04 09:32:00
 creator: ccl
 description: ''
-title: 易度合同管理
+title: 合同管理
 ---
 
 .. sectnum::
