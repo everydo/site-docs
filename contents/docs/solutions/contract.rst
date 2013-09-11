@@ -16,6 +16,7 @@ title: 合同管理
    - `下载试用版 <../download.rst>`__
    - `快速了解系统功能 <../tour/>`__
    - `《易度合同管理系统介绍.pdf》 <http://download.zopen.cn/releases/docs/易度合同管理系统介绍.pdf>`__
+   - `在线试用 <http://contract.oc.easydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fcontract.easydo.cn&isdocsdemo=1>`__
 
 易度合同管理，以电子化合同管理为基础，提供合同编写、审批、变更、执行的各个阶段的全生命周期文档协作和管控，提供工作效率，减少差错的发生。
 
