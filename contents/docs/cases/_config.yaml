@@ -1,4 +1,4 @@
 exclude: [img, all.rst, index.rst]
-order: [manufact, material, software, education, engineer, medical, financial, gov, chem]
+order: [manufact, material, software, trade, education, engineer, medical, financial, gov, chem]
 title: 行业方案
 description: 十多年的辛苦耕耘，易度已经为各行各业3万多的客户提供文档管理产品和服务。我们了解您的行业，能够针对性的提供最佳的方案。

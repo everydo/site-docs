@@ -18,7 +18,7 @@ title: 产品购买
 
 选择适合的版本
 =================
-易度文档管理系统分基础版、标准版、企业版、高级企业版和开发版。下图为各版本功能列表，用户根据企业实际情况，按需选购：
+易度文档管理系统分基础版、标准版、企业版、高级企业版。下图为各版本功能列表，用户根据企业实际情况，按需选购：
 
 .. list-table::
    :widths: 5,3,3,3,4,3
@@ -28,15 +28,12 @@ title: 产品购买
      - **标准版**
      - **企业版**
      - **高级企业版**
-     - **开发版**
    * - 
      - 企业网盘
      - 更强权限管控
      - 各种流程管控
      - 档案管理文控
-     - 定制开发
    * - 集中存储
-     - |checked|
      - |checked|
      - |checked|
      - |checked|
@@ -46,9 +43,7 @@ title: 产品购买
      - |checked|
      - |checked|
      - |checked|
-     - |checked|
    * - 在线预览
-     - |checked|
      - |checked|
      - |checked|
      - |checked|
@@ -58,9 +53,7 @@ title: 产品购买
      - |checked|
      - |checked|
      - |checked|
-     - |checked|
    * - 音/视频在线播放
-     - |checked|
      - |checked|
      - |checked|
      - |checked|
@@ -70,9 +63,7 @@ title: 产品购买
      - |checked|
      - |checked|
      - |checked|
-     - |checked|
    * - 文件和文件夹授权
-     - |checked|
      - |checked|
      - |checked|
      - |checked|
@@ -82,9 +73,7 @@ title: 产品购买
      - |checked|
      - |checked|
      - |checked|
-     - |checked|
    * - 全文检索
-     - |checked|
      - |checked|
      - |checked|
      - |checked|
@@ -94,9 +83,7 @@ title: 产品购买
      - |checked|
      - |checked|
      - |checked|
-     - |checked|
    * - 文档关联和附件
-     - |checked|
      - |checked|
      - |checked|
      - |checked|
@@ -106,9 +93,7 @@ title: 产品购买
      - |checked|
      - |checked|
      - |checked|
-     - |checked|
    * - 扫描支持
-     - |checked|
      - |checked|
      - |checked|
      - |checked|
@@ -118,15 +103,7 @@ title: 产品购买
      - |checked|
      - |checked|
      - |checked|
-     - |checked|
    * - Web文件夹访问
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 文件外发
-     - |checked|
      - |checked|
      - |checked|
      - |checked|
@@ -136,9 +113,7 @@ title: 产品购买
      - |checked|
      - |checked|
      - |checked|
-     - |checked|
    * - 消息发送
-     - |checked|
      - |checked|
      - |checked|
      - |checked|
@@ -148,9 +123,7 @@ title: 产品购买
      - |checked|
      - |checked|
      - |checked|
-     - |checked|
    * - 版本管理
-     - |checked|
      - |checked|
      - |checked|
      - |checked|
@@ -160,9 +133,7 @@ title: 产品购买
      - |checked|
      - |checked|
      - |checked|
-     - |checked|
    * - 标签组
-     - |checked|
      - |checked|
      - |checked|
      - |checked|
@@ -172,10 +143,8 @@ title: 产品购买
      - 标准版
      - 企业版
      - 高级企业版
-     - 开发版
    * - 6级查看权限
      -
-     - |checked|
      - |checked|
      - |checked|
      - |checked|
@@ -184,10 +153,8 @@ title: 产品购买
      - |checked|
      - |checked|
      - |checked|
-     - |checked|
    * - 操作历史
      -
-     - |checked|
      - |checked|
      - |checked|
      - |checked|
@@ -196,17 +163,14 @@ title: 产品购买
      - |checked|
      - |checked|
      - |checked|
-     - |checked|
    * -
      - 基础版
      - 标准版
      - 企业版
      - 高级企业版
-     - 开发版
    * - IP段权限策略
      - 
      - 
-     - |checked|
      - |checked|
      - |checked|
    * - 文档模板
@@ -214,11 +178,9 @@ title: 产品购买
      - 
      - |checked|
      - |checked|
-     - |checked|
    * - 文件夹模板
      - 
      - 
-     - |checked|
      - |checked|
      - |checked|
    * - 文档发布
@@ -226,11 +188,9 @@ title: 产品购买
      - 
      - |checked|
      - |checked|
-     - |checked|
    * - 受控文件夹
      - 
      - 
-     - |checked|
      - |checked|
      - |checked|
    * - 权限批量管理
@@ -238,11 +198,9 @@ title: 产品购买
      - 
      - |checked|
      - |checked|
-     - |checked|
    * - OCR识别
      - 
      - 
-     - |checked|
      - |checked|
      - |checked|
    * - 活动目录集成
@@ -250,11 +208,9 @@ title: 产品购买
      - 
      - |checked|
      - |checked|
-     - |checked|
    * - 帐号委托管理
      - 
      - 
-     - |checked|
      - |checked|
      - |checked|
    * - 文档审批流程
@@ -262,11 +218,9 @@ title: 产品购买
      - 
      - |checked|
      - |checked|
-     - |checked|
    * - 文档借阅流程
      - 
      - 
-     - |checked|
      - |checked|
      - |checked|
    * - 自动编号规则
@@ -274,11 +228,9 @@ title: 产品购买
      - 
      - |checked|
      - |checked|
-     - |checked|
    * - 统计报表
      - 
      - 
-     - |checked|
      - |checked|
      - |checked|
    * - 更多扩展应用..
@@ -286,61 +238,48 @@ title: 产品购买
      - 
      - |checked|
      - |checked|
-     - |checked|
    * -
      - 基础版
      - 标准版
      - 企业版
      - 高级企业版
-     - 开发版
    * - 专辑
      - 
      - 
      - 
-     - |checked|
      - |checked|
    * - 自定义流程
      - 
      - 
      - 
      - |checked|
-     - |checked|
    * - 自定义扩展属性
      - 
      - 
      - 
-     - |checked|
      - |checked|
    * - 自定义规则
      - 
      - 
      - 
      - |checked|
-     - |checked|
    * - 档案管理
      - 
      - 
      - 
-     - |checked|
      - |checked|
    * - 文控流程
      - 
      - 
      - 
      - |checked|
-     - |checked|
    * - 安装定制应用 
      - 
      - 
      - 
      - |checked|
-     - |checked|
-   * - 开发扩展应用包
-     - 
-     - 
-     - 
-     - 
-     - |checked|
+
+另外，易度提供免费的开发版，可以进行扩展应用包的开发。开发版限制用户数为3人，文档容量不超过100M。
 
 实施服务   
 =================
@@ -536,6 +475,21 @@ title: 产品购买
 - 系统集成
 - 流程定制
 - 定制开发
+
+开发培训服务
+------------------
+
+易度的发展战略是鼓励开发者，建立生态链，希望更多公司能够使用易度进行开发。
+
+1. 易度提供免费的开发版，可以进行扩展应用包的开发。开发版限制用户数为3人，文档容量不超过100M。
+2. 我们提供开发社区：易度开发者中心，为开发者提供支持
+
+   http://developer.everydo.com
+
+另外，我们还提供:
+
+* 我们提供标准的易度开发培训服务
+* 我们提供开发支持服务
 
 售后服务
 =================
