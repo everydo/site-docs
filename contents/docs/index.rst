@@ -65,7 +65,7 @@ title: 首页
         <div class="box_x box_demo">
             <ul>
                 <li class="recommend">
-                    <h3>部门文档管理</h3>
+                    <h3>企业文档管理</h3>
                     <p>
                         企业各部门文档集中管理<br />
                         简单易用、方便实施<br />
