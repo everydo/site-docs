@@ -1,9 +1,8 @@
 .. raw:: html
 
-
    <iframe width="100%" height="120" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=120&fansRow=1&ptype=0&speed=0&skin=1&isTitle=1&noborder=1&isWeibo=1&isFans=1&uid=1361931841&verifier=bf3c5d6d&dpc=1"></iframe>
 
-    <div class="edoBox">
+    <!-- div class="edoBox">
         <dl class="portlet">
             <dt class="portletHeader">
                 博客栏目
@@ -16,7 +15,7 @@
                </ul>
             </dd>
          </dl>
-    </div>
+    </div -->
 
     <div class="edoBox">
         <dl class="portlet">
