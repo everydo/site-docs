@@ -1,6 +1,6 @@
 description: ''
 exclude: [img, picture, pic]
-order: [index.rst, why-edo.rst, overview.rst, upload.rst, authoring.rst, versioning.rst, publish.rst, 
+order: [index.rst, why-docs.rst, why-edo.rst, upload.rst, authoring.rst, versioning.rst, publish.rst, 
   security.rst, view.rst, search.rst, notify.rst, storage.rst, dynamic-password.rst, login-ui.rst, 
   apps.rst, doc_review.rst, doc_borrow.rst,
   bianhao.rst, tags_viewer.rst, baobiao.rst, app_sendout.rst, zopen.publisher.rst,
