@@ -14,7 +14,8 @@ title: 项目文档管理
 .. sidebar:: 相关资源
 
    - `下载试用版 <../download.rst>`__
-   - `快速了解系统功能 <../tour/>`__
+   - `在线试用 <http://projects.oc.easydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fprojects.easydo.cn&isdocsdemo=1>`__
+   - `快速了解系统功能 <http://pm.everydo.com/tour/>`__
 
 项目型业务的企业，往往存在大量的项目。项目文档，作为项目的知识沉淀，在项目过程各个环节都非常重要。项目过程中，需要分权限进行项目文档协作；项目完结，需要归档项目关键文档，集中统一进行管理。
 
