@@ -86,7 +86,7 @@ title: 首页
                 </li>
                 <li>
                     <p><a href="solutions/archive.rst">档案管理</a> |
-                       <a href="solutions/iso.rst" target="_blank">ISO文控</a> 
+                       <a href="solutions/isodoc.rst" target="_blank">ISO文控</a> 
                        <br />
                        <a href="solutions/paperless.rst" target="_blank">无纸化办公</a> | 
                        <a href="solutions/contract.rst" target="_blank">合同管理</a>
