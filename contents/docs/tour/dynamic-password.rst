@@ -26,26 +26,21 @@ title: 　动态密码验证
 
 在使用该功能之前，用户需要先在他的手机上安装一个Google 身份认证器，根据不同的平台的手机，可以根据下面的指引来安装：
 
-1、Android移动设备：
+1. Android移动设备：
 
-在手机的应用市场搜索“Google身份验证器”或“Google Authenticator”，下载安装即可。建议通过推荐的市场来安装： `Google Play <https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmF1dGhlbnRpY2F0b3IyIl0.>`_ 、 
-`豌豆荚 <http://www.wandoujia.com/apps/com.google.android.apps.authenticator2>`_ 、 
-`腾讯应用宝 <http://android.myapp.com/android/appdetail.jsp?appid=30880&actiondetail=0&pageNo=1&clickpos=1&transactionid=1377854850182598&lmid=1022&softname=Google%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E6%97%97>`_ 、 
-`应用汇 <http://www.appchina.com/app/com.google.android.apps.authenticator2/>`_ 、 
-`百度移动应用 <http://as.baidu.com/a/item?docid=796992058>`_ 
-等
+   在手机的应用市场搜索“Google身份验证器”或“Google Authenticator”，下载安装即可。建议通过推荐的市场来安装： `Google Play <https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmF1dGhlbnRpY2F0b3IyIl0.>`_ 、 `豌豆荚 <http://www.wandoujia.com/apps/com.google.android.apps.authenticator2>`_ 、 `腾讯应用宝 <http://android.myapp.com/android/appdetail.jsp?appid=30880&actiondetail=0&pageNo=1&clickpos=1&transactionid=1377854850182598&lmid=1022&softname=Google%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E6%97%97>`_ 、 `应用汇 <http://www.appchina.com/app/com.google.android.apps.authenticator2/>`_ 、 `百度移动应用 <http://as.baidu.com/a/item?docid=796992058>`_  等
 
-2、iOS移动设备：
+2. iOS移动设备：
 
-进入 `iTunes商店 <http://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8>`_ 或者在手机的应用商店搜索“Google Authenticator”，下载安装即可。
+   进入 `iTunes商店 <http://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8>`_ 或者在手机的应用商店搜索“Google Authenticator”，下载安装即可。
 
-3、Windows Phone：
+3. Windows Phone：
 
-`点击这里 <http://www.windowsphone.com/en-US/apps/021dd79f-0598-e011-986b-78e7d1fa76f8>`_ 进入window phone的应用市场根据提示安装。
+   `点击这里 <http://www.windowsphone.com/en-US/apps/021dd79f-0598-e011-986b-78e7d1fa76f8>`_ 进入window phone的应用市场根据提示安装。
 
-4、其他移动设备：  
+4. 其他移动设备：  
 
-Symbian或者其他支持Java ME的设备： `点击下载 <http://code.google.com/p/lwuitgauthj2me/>`_   
+   Symbian或者其他支持Java ME的设备： `点击下载 <http://code.google.com/p/lwuitgauthj2me/>`_   
 
 
 常见问题：
