@@ -56,7 +56,7 @@ title: 首页
                 </p>
             </div>
             <div class="r">
-                <a href="tour"><img src="img/banner.png" alt="易度文档管理系统：产品特性介绍" /></a>
+                <a href="tour/"><img src="img/banner.png" alt="易度文档管理系统：产品特性介绍" /></a>
             </div>
             <div class="clear"></div>
         </div>
