@@ -105,7 +105,8 @@ title: 产品介绍
 **观看视频演示**:
 `在线修改文件 <flash/extendEditor.htm>`__
 
-.. image:: picture/tour-img011.png
+.. image:: img/upload03.png
+   :width: 600
    :alt: 文档外部编辑
 
 **说明**: 1). 直接进行在线编辑，自动管理文档的修改锁；2). 编辑完成后，外部编辑器自动在后台将文件上传到服务器
