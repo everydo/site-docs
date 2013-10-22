@@ -63,14 +63,14 @@ title: 首页
         <div class="box_x box_demo">
             <ul>
                 <li>
-                    <h3>合同管理</h3>
+                    <h3>产品图文档管理</h3>
                     <p>
-                        合同全生命周期管控<br />
-                        规范、安全、高效<br />
-                        合同存档、编写、审批、变更、执行<br />
+                        轻量级的PDM/PLM系统<br />
+                        产品文档图纸集中存档<br />
+                        审批、变更、借阅等流程<br />
                         <br />
                     </p>
-                    <p style="line-height:3em;"><a class="login-bt" href="solutions/contract.rst">了解试用</a></p>
+                    <p style="line-height:3em;"><a class="login-bt" href="solutions/tech.rst">了解试用</a></p>
                 </li>
                 <li class="recommend">
                     <h3>企业文档管理</h3>
@@ -87,7 +87,7 @@ title: 首页
                        <a href="solutions/isodoc.rst" target="_blank">ISO文控</a> 
                        <br />
                        <a href="solutions/paperless.rst" target="_blank">无纸化办公</a> | 
-                       <a href="solutions/tech.rst" target="_blank">产品图文档管理</a>
+                       <a href="solutions/contract.rst" target="_blank">合同管理</a>
                        <br />
                        <a href="solutions/marketing.rst" target="_blank">经销商门户</a>
                        <br />
