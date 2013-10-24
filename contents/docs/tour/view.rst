@@ -27,7 +27,7 @@ title: 　文档查看
 - viso格式：vsd/vss/vst
 - WPS2009: wps、et、dps
 - openoffice: .odt,ods,odp,ott,ots,otp
-- PDF
+- PDF: pdf
 - 文本：.txt、.html
 - 格式化文本： MarkDown(.md), reStructuredText(.rst)
 - 代码：.java,.c,.cpp,.jsp,.asp,.py,.as,.h
@@ -45,7 +45,8 @@ title: 　文档查看
 =================================
 对于设计类型的公司，大量存在的是矢量图格式，系统提供快速预览的功能，大大方便了这些设计稿件的查找。
 
-
+.. image:: pic/view04.jpg
+   :width: 440px
 
 格式包括：CoralDraw(.cdr)、PhotoShop(.psd)、AI(.ai)、svg/wmf
 
