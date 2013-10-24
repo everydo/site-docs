@@ -200,7 +200,7 @@ title: 首页
                 <li><img src="./cases/gov/img/logo-zgwhb.gif" /></li>
                 <li><img src="./cases/chem/img/hbsh.gif" /></li>
                 <li><img src="./cases/chem/img/logo-hhxny.gif" /></li>
-                <li><img src="./cases/manufact/img/logo-tongyi.png" /></li>
+                <li><img src="./cases/manufact/img/logo-tongyi.gif" /></li>
                 <li><img src="./cases/medical/img/jfzy.gif" /></li>
                 <li><img src="./cases/logistics/img/logo-shanghang.gif" /></li>
                 <li><img src="./cases/logistics/img/logo-szzh.gif" /></li>
@@ -218,7 +218,7 @@ title: 首页
                 <li><img src="./cases/manufact/img/logo-kpdl.gif" /></li>
 	        <li><img src="./cases/engineer/img/logo-csws.gif" /></li>
                 <li><img src="./cases/engineer/img/logo-nhfz.gif" /></li>
-                <li><img src="./cases/education/img/logo-by.png" /></li>
+                <li><img src="./cases/education/img/logo-by.gif" /></li>
                 <li><img src="./cases/education/img/logo-jndx.gif" /></li>
                 <li><img src="./cases/education/img/logo-zhejiangnonglin.png" /></li>
                 <li><img src="./cases/education/img/logo-xcxx.gif" /></li>
