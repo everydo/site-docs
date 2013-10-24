@@ -73,7 +73,7 @@ title: 　文档查看
 - 电路板：Protel/PCB
 - 2D图纸：dwg、dfx
 - 3D格式: Pro/ENGINEER: PRT 、CALCOMP: PLT、 Protel: PCB、 IIIustrator: AI、Unigraphics: PRT catia/cati5:
-CATPart、Inventor: IAM、SolidEdge: ASM, ASM、SolidWorks: SLDASM, SLDPRT EDA: PCB,SCH, STP等
+  CATPart、Inventor: IAM、SolidEdge: ASM, ASM、SolidWorks: SLDASM, SLDPRT EDA: PCB,SCH, STP等
 
 流媒体在线播放
 ====================================
