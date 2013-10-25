@@ -64,7 +64,7 @@ title: 　文档查看
 
 .. image:: pic/view-img002.png
 
-安装 eDrawing，可实现2D/3D图纸的在线查看:
+安装 eDrawing 或者 autovue，可实现2D/3D图纸的在线查看:
 
 .. image:: pic/view011.png
     :width: 400px
