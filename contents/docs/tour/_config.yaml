@@ -1,7 +1,7 @@
 description: ''
 exclude: [img, picture, pic]
 order: [index.rst, why-docs.rst, why-edo.rst, view.rst, search.rst, 
-  upload.rst, colab.rst, versioning.rst, workflows.rst, 
+  upload.rst, versioning.rst, share.rst, workflows.rst, 
   security.rst, notify.rst, storage.rst, dynamic-password.rst, login-ui.rst, site-deployment.rst,
   apps.rst, doc_review.rst, doc_borrow.rst,
   bianhao.rst, tags_viewer.rst, baobiao.rst, app_sendout.rst, zopen.publisher.rst,
