@@ -211,7 +211,7 @@ title: 首页
                 <li><img src="./cases/software/img/logo-lx.gif" /></li>
                 <li><img src="./cases/software/img/logo-263wl.gif" /></li>
                 <li><img src="./cases/software/img/logo-wangyi.gif" /></li>
-                <li><img src="./cases/software/img/logo-ruanjianyuan.png" /></li>
+                <li><img src="./cases/software/img/logo-ruanjianyuan.gif" /></li>
                 <li><img src="./cases/telecom/img/logo-dianxin.gif" /></li>
                 <li><img src="./cases/manufact/img/logo-huanchang.png" /></li>
                 <li><img src="./cases/manufact/img/logo-yapp.png" /></li>
