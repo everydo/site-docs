@@ -12,25 +12,6 @@ title: 　转换预览
 
 
 
-.. _format:
-
-易度能够对哪些文件格式进行在线查看？
-==========================================================
-- Office2003/2007： doc/docx、xls/xlsx、pptt/pptx、pps、pot
-- WPS2009: wps、et、dps
-- openoffice: .odt,ods,odp,ott,ots,otp
-- PDF: pdf
-- 文本：txt、html、rst、mht
-- 代码：.java,.c,.cpp,.jsp,.asp,.py,.as,.h
-- 图片：bmp、jpg、png、gif、tiff
-- 设计：cdr（5.0版）、ai
-- 图纸：dwg、Pro/ENGINEER: PRT 、CALCOMP: PLT、 Protel: PCB、 IIIustrator: AI、Unigraphics: PRT catia/cati5: CATPart、Inventor: IAM、SolidEdge: ASM, ASM、SolidWorks: SLDASM, SLDPRT EDA: PCB,SCH, STP
-- 电路板：Protel/PCB
-- 音频：mp3、wma、rm、wav、mid
-- 视频：avi、rmvb、mov、mp4、swf、flv、mpg、ram
-- 压缩包：rar、zip、tar、tgz
-
-
 
 .. _unable:
 
