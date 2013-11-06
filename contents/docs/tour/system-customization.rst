@@ -22,7 +22,7 @@ title: 　系统定制
 栏目主要由应用组成。部署一个应用，就会添加一个新栏目。用户可以调整栏目的顺序。
 
 .. image:: pic/system-customization01.png
-   :width: 480
+   :width: 450
 
 可部署的应用包括2种：
 
@@ -57,7 +57,7 @@ title: 　系统定制
 具体来说：由系统管理员预先定义一组规则或通过扩展软件包来安装，然后各个文件夹的管理员，将规则分配到文件夹下。
 
 .. image:: pic/system-customization04.png
-   :width: 500
+   :width: 520
 
 
 
