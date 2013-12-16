@@ -8,6 +8,26 @@ title: 产品视频演示
 产品视频演示
 =================
 
+上传与分享
+=================
+.. raw:: html
+
+   <iframe height=340 width=510 src="http://player.youku.com/embed/XNjQ3NzA0MzI0" frameborder=0 allowfullscreen></iframe>
+
+编辑与协作
+=================
+.. raw:: html
+
+   <iframe height=340 width=510 src="http://player.youku.com/embed/XNjQ3NjY2Njg0" frameborder=0 allowfullscreen></iframe>
+
+文档搜索
+=================
+.. raw:: html
+
+   <iframe height=340 width=510 src="http://player.youku.com/embed/XNjQ3MzAyMjY0" frameborder=0 allowfullscreen></iframe>
+
+其他Flash视频
+====================
 注意：为得到最佳的观看效果，请点击 F11 键，在全屏模式下查看。
 
 .. container:: float-left
