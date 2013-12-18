@@ -41,31 +41,9 @@ title: 产品视频演示
 .. container:: float-left
 
    .. figure:: img/flash.png
-      :target: his.htm
-
-      操作历史记录查询
-
-
-.. container:: float-left
-
-   .. figure:: img/flash.png
-      :target: onlinePdf.htm
-
-      文件在线预览
-
-.. container:: float-left
-
-   .. figure:: img/flash.png
       :target: perm.htm
 
       文档权限控制
-
-.. container:: float-left
-
-   .. figure:: img/flash.png
-      :target: tags.htm
-
-      标签组搜索及设置
 
 .. container:: float-left
 
@@ -129,3 +107,11 @@ title: 产品视频演示
       :target: extendPro.htm
 
       自定义扩展属性使用
+
+.. container:: float-left
+
+   .. figure:: img/flash.png
+      :target: his.htm
+
+      操作历史记录查询
+
