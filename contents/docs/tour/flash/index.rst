@@ -56,23 +56,9 @@ title: 产品视频演示
 .. container:: float-left
 
    .. figure:: img/flash.png
-      :target: contentIndex.htm
-
-      全文检索 文档检索
-
-.. container:: float-left
-
-   .. figure:: img/flash.png
       :target: perm.htm
 
       文档权限控制
-
-.. container:: float-left
-
-   .. figure:: img/flash.png
-      :target: extendEditor.htm
-
-      文档在线修改
 
 .. container:: float-left
 
@@ -87,13 +73,6 @@ title: 产品视频演示
       :target: docAudit.htm
 
       文件审核流程
-
-.. container:: float-left
-
-   .. figure:: img/flash.png
-      :target: comitAndNotfi.htm
-
-      文档评注 关注 分享 消息通知
 
 .. container:: float-left
 
