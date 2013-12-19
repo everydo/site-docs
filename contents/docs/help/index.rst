@@ -67,7 +67,7 @@ title: 资源列表
    * - |pdf|
      - 教程和手册
 
-       - `视频: 《易度快速入门》</tour/flash/>`__ 
+       - `视频: 《易度快速入门》 </tour/flash/>`__ 
        - `《易度文档管理系统安装指南》 <http://download.zopen.cn/releases/docs/易度文档管理系统安装指南.pdf>`__
        - `《易度文档管理系统实施指南》 <http://download.zopen.cn/releases/docs/易度文档管理系统实施指南.pdf>`__
        - `《易度文档管理系统快速入门》 <http://download.zopen.cn/releases/docs/易度文档管理系统快速入门.pdf>`__
