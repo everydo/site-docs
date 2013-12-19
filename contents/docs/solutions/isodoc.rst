@@ -16,7 +16,7 @@ ISO/GMP质量体系文件管控
 .. sidebar:: 相关资源
 
    - `下载试用版 <../download.rst>`__
-   - `在线试用 <http://isodoc.oc.everydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fisodoc.everydo.cn&isdocsdemo=1>`__
+   - `在线试用 <http://isodoc.oc.easydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fisodoc.easydo.cn&isdocsdemo=1>`__
    - `快速了解系统功能 <../tour/>`__
 
 企业通过遵循ISO/GMP等质量体系文件标准，确保产品的质量。 质量体系文件，包括：质量手册、程序文件、作业指导书、表单文件、工艺文件、技术图纸、代码文件、报告等。

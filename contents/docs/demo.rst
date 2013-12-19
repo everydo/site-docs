@@ -22,7 +22,7 @@ title: 试用体验易度文档管理系统
                            对档案使用情况进行统计<br />
                            支持库内容个性化展示<br />
                        </div>
-                       <a href="http://archive.oc.everydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Farchive.everydo.cn&isdocsdemo=1" target="_blank"><img src="img/trial1.jpg"></a>
+                       <a href="http://archive.oc.easydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Farchive.easydo.cn&isdocsdemo=1" target="_blank"><img src="img/trial1.jpg"></a>
                    </div>
                </td>
                <td>
@@ -44,7 +44,7 @@ title: 试用体验易度文档管理系统
                            文档分发、收回，等<br />
                            全面控制企业文控流程<br />
                        </div>
-                       <a href="http://isodoc.oc.everydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fisodoc.everydo.cn&isdocsdemo=1" target="_blank"><img src="img/trial3.jpg"></a>
+                       <a href="http://isodoc.oc.easydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fisodoc.easydo.cn&isdocsdemo=1" target="_blank"><img src="img/trial3.jpg"></a>
                        </div>
                </td>
            </tr>
