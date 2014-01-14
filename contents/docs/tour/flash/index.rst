@@ -8,23 +8,21 @@ title: 产品视频演示
 产品视频演示
 =================
 
-上传与分享
-=================
+易度文档管理系统快速入门视频
+=========================
+包括：文档的上传与分享、编辑与协作、文档搜索等一系列功能。
+
 .. raw:: html
 
-   <iframe height=340 width=510 src="http://player.youku.com/embed/XNjQ3NzA0MzI0" frameborder=0 allowfullscreen></iframe>
+    <iframe height=340 width=510 src="http://player.youku.com/embed/XNjYxNDgzMzg4" frameborder=0 allowfullscreen></iframe>
 
-编辑与协作
-=================
+易度文档审批流程的定制
+=========================
+易度文档审批流程能快速按需定制，满足在对技术文件、合同等审批时的多种需求，包括：串审、并审、分部门审批。
+
 .. raw:: html
 
-   <iframe height=340 width=510 src="http://player.youku.com/embed/XNjQ3NjY2Njg0" frameborder=0 allowfullscreen></iframe>
-
-文档搜索
-=================
-.. raw:: html
-
-   <iframe height=340 width=510 src="http://player.youku.com/embed/XNjQ3MzAyMjY0" frameborder=0 allowfullscreen></iframe>
+   <iframe height=340 width=510 src="http://player.youku.com/embed/XNjYxMDgyMjcy" frameborder=0 allowfullscreen></iframe>
 
 其他Flash视频
 ====================
