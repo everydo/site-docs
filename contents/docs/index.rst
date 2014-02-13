@@ -53,9 +53,9 @@ title: 首页
                     <a class="sr" href="/tour/honor.rst" title="易度文档管理系统是拥有自主知识产权的创新文档管理软件">易度文档管理系统资质荣誉：文档管理软件认证证书</a> &nbsp;
                 </p>
                 <p>售前客服:
-                    <a target="_blank" href="http://wpa.qq.com/msgrd?V=1&Uin=2355396602&Site=易度文档系统&Menu=yes"><img alt="点击这里给我发消息" align=absMiddle" width="77" height="22" src="img/qq2.png">&nbsp</a>
-                    <a target="_blank" href="http://wpa.qq.com/msgrd?V=1&Uin=2355396603&Site=易度文档系统&Menu=yes"><img alt="点击这里给我发消息" align=absMiddle" width="77" height="22" src="img/qq2.png">&nbsp</a>
-                    <a target="_blank" href="http://wpa.qq.com/msgrd?V=1&Uin=2355396605&Site=易度文档系统&Menu=yes"><img alt="点击这里给我发消息" align=absMiddle" width="77" height="22" src="img/qq2.png">&nbsp</a>
+                    <a target="_blank" href="http://wpa.qq.com/msgrd?V=1&Uin=2355396602&Site=易度文档系统&Menu=yes"><img alt="点击这里给我发消息" align=absMiddle" width="77" height="22" src="img/qq2.png"></a>&nbsp
+                    <a target="_blank" href="http://wpa.qq.com/msgrd?V=1&Uin=2355396603&Site=易度文档系统&Menu=yes"><img alt="点击这里给我发消息" align=absMiddle" width="77" height="22" src="img/qq2.png"></a>&nbsp
+                    <a target="_blank" href="http://wpa.qq.com/msgrd?V=1&Uin=2355396605&Site=易度文档系统&Menu=yes"><img alt="点击这里给我发消息" align=absMiddle" width="77" height="22" src="img/qq2.png"></a>&nbsp
                 </p>
             </div>
             <div class="r">
