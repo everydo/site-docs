@@ -262,6 +262,7 @@ title: 首页
                      </tr>
                      <tr>
                         <td><a href="http://www.xunzai.com" target="_blank">迅载软件站</a></td>
+                        <td><a href="http://www.coremail.cn" target="_blank">邮件系统</a></td>
                      </tr>
                 </tbody>
             </table>
