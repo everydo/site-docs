@@ -68,14 +68,14 @@ title: 首页
         <div class="box_x box_demo">
             <ul>
                 <li>
-                    <h3>产品图文档管理</h3>
+                    <h3>档案管理</h3>
                     <p>
-                        轻量级的PDM/PLM系统<br />
-                        产品文档图纸集中存档<br />
-                        审批、变更、借阅等流程<br />
+                        专业的档案管理系统<br />
+                        收集、整理、归档、发布、检索、借阅、统计<br />
+                        成熟稳定，数千家客户一致选择<br />
                         <br />
                     </p>
-                    <p style="line-height:3em;"><a class="login-bt" href="solutions/tech.rst">了解试用</a></p>
+                    <p style="line-height:3em;"><a class="login-bt" href="solutions/archive.rst">了解试用</a></p>
                 </li>
                 <li class="recommend">
                     <h3>企业文档管理</h3>
@@ -89,9 +89,9 @@ title: 首页
                 </li>
                 <li>
                     <p><a href="solutions/archive.rst">档案管理</a> |
-                       <a href="solutions/isodoc.rst" target="_blank">ISO文控</a> 
+                       <a href="solutions/isodoc.rst" target="_blank">ISO文控</a>
                        <br />
-                       <a href="solutions/paperless.rst" target="_blank">无纸化办公</a> | 
+                       <a href="solutions/paperless.rst" target="_blank">无纸化办公</a> |
                        <a href="solutions/contract.rst" target="_blank">合同管理</a>
                        <br />
                        <a href="solutions/marketing.rst" target="_blank">经销商门户</a>
@@ -262,7 +262,6 @@ title: 首页
                      </tr>
                      <tr>
                         <td><a href="http://www.xunzai.com" target="_blank">迅载软件站</a></td>
-                        <td><a href="http://www.coremail.cn" target="_blank">邮件系统</a></td>
                      </tr>
                 </tbody>
             </table>
