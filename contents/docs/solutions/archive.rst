@@ -21,7 +21,7 @@ title: 档案管理
    - `在线试用 <http://archive.oc.easydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Farchive.easydo.cn&isdocsdemo=1>`__
    - `快速了解系统功能 <../tour/>`__
    - `《易度档案管理介绍》 <http://download.zopen.cn/releases/docs/易度档案管理系统介绍.pdf>`__
-   - `视频：易度档案系统的使用 <http://v.youku.com/v_show/id_XNjg0MjIxODAw.html>`__   
+   - `视频：易度档案系统的使用 <flash/>`__  
 
 易度档案管理系统是广州润普网络科技有限公司专门为档案管理设计开发的软件系统，遵循国家档案局《归档文件整理规则》内容和集中统一管理档案，维护档案的完整与安全，便于利用的原则。它具备高效、高质、简单、实用的特点。
 
