@@ -24,6 +24,16 @@ title: 产品视频演示
 
    <iframe height=340 width=510 src="http://player.youku.com/embed/XNjYxMDgyMjcy" frameborder=0 allowfullscreen></iframe>
 
+易度档案管理系统的使用
+========================================
+易度档案管理系统主要对电子档案的全生命周期进行规范化管理。包括：档案的收集、入库、整理、发布、归档、查询、借阅以及统计报表。
+
+.. raw:: html
+
+   <iframe height=340 width=510 src="http://player.youku.com/embed/XNjg0MjIxODAw" frameborder=0 allowfullscreen></iframe>
+
+注意：为得到最佳的观看效果，请把画质切换到“超清”。
+
 其他Flash视频
 ================================
 注意：为得到最佳的观看效果，请点击 F11 键，在全屏模式下查看。
@@ -63,13 +73,6 @@ title: 产品视频演示
       :target: login.htm
 
       登陆及修改个人资料
-
-.. container:: float-left
-
-   .. figure:: img/flash.png
-      :target: docImport.htm
-
-      批量上传文档
 
 .. container:: float-left
 
