@@ -41,6 +41,14 @@ title: 产品视频演示
 
    <iframe height=340 width=510 src="http://player.youku.com/embed/XNjg5NDE2NDYw" frameborder=0 allowfullscreen></iframe>
 
+易度合同管理软件的使用
+========================================
+易度合同管理软件提供集中的电子合同档案库、合同变更和审批自动化流程，合同内容快速检索、合同关键时点自动提醒等功能。帮助企业轻松解决各种合同管理问题，有效管控合同的编写、审批、变更、执行等阶段。
+
+.. raw:: html
+
+   <iframe height=340 width=510 src="http://player.youku.com/embed/XNjkwODI3Mzcy" frameborder=0 allowfullscreen></iframe>
+   
 其他Flash视频
 ================================
 注意：为得到最佳的观看效果，请点击 F11 键，在全屏模式下查看。
