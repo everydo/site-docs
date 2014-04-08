@@ -130,6 +130,6 @@ title: 资源列表
 
     <script src="http://viewer.everydo.com:9870/static/api.js"></script>
     <script type="text/javascript">
-        cloudview('http://viewer.everydo.com:9870/');
+        cloudview('http://viewer.everydo.com:9870/', account='zopen', instance='default');
     </script>
 
