@@ -235,7 +235,7 @@ title: 首页
 
         <div class="box_x box_try">
             <h2 title="马上下载试用易度文档管理系统" class="center" style="line-height:50px;"><a href="http://www.edodocs.com/download.rst" class="download" target="_blank">马上下载试用</a></h2>
-            <p class="center">易度文档管理软件（销售顾问） 020 - 3805 5596 </p>
+            <p class="center">易度文档管理软件（销售顾问） 400-1066-883 </p>
         </div>
 
         <div class="box_x links">
