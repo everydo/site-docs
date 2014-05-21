@@ -243,6 +243,13 @@ title: 首页
             <table border="0" width="100%">
                 <tbody>
                     <tr>
+                        <td><a href="http://www.everydo.com" target="_blank">易度云办公</a></td>
+                        <td><a href="http://www.edodocs.com" target="_blank">易度文档管理</a></td>
+                        <td><a href="http://pm.everydo.com" target="_blank">易度项目管理</a></td>
+                        <td><a href="http://viewer.everydo.com" target="_blank">易度云查看</a></td>
+                        <td><a href="http://developer.everydo.com" target="_blank">易度开发者</a></td>
+                    </tr>
+                    <tr>
 
                         <td><a href="http://czug.org" target="_blank">中国 Zope 用户组</a></td>
                         <td><a href="http://www.softbar.com" target="_blank">局域网监控软件</a></td>
