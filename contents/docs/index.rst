@@ -264,6 +264,7 @@ title: 首页
                         <td><a href="http://www.xunzai.com" target="_blank">迅载软件站</a></td>
                         <td><a href="http://www.coremail.cn" target="_blank">邮件系统</a></td>
                         <td><a href="http://www.3987.com" target="_blank">统一下载站</a></td>
+                        <td><a href="http://xiazai.zol.com.cn" target="_blank">ZOL应用下载</a></td>
                      </tr>
                 </tbody>
             </table>
