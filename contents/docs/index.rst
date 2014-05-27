@@ -275,6 +275,9 @@ title: 首页
                         <td><a href="http://down.it168.com" target="_blank">IT168绿色软件</a></td>
                         <td><a href="http://download.pcpop.com" target="_blank">泡泡网免费软件</a></td>
                      </tr>
+                     <tr>
+                        <td><a href="http://www.ddooo.com" target="_blank">多多软件站</a></td>
+                     </tr>
                 </tbody>
             </table>
             <p><br />易度文档管理系统：已通过国家版权局审核，是具有独立知识产权的文档管理软件工具。</p>
