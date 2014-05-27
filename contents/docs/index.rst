@@ -272,6 +272,8 @@ title: 首页
                         <td><a href="http://www.coremail.cn" target="_blank">邮件系统</a></td>
                         <td><a href="http://www.3987.com" target="_blank">统一下载站</a></td>
                         <td><a href="http://xiazai.zol.com.cn" target="_blank">ZOL应用下载</a></td>
+                        <td><a href="http://down.it168.com" target="_blank">IT168绿色软件</a></td>
+                        <td><a href="http://download.pcpop.com" target="_blank">泡泡网免费软件</a></td>
                      </tr>
                 </tbody>
             </table>
