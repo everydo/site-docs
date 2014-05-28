@@ -277,6 +277,7 @@ title: 首页
                      </tr>
                      <tr>
                         <td><a href="http://www.ddooo.com" target="_blank">多多软件站</a></td>
+                        <td><a href="http://www.020fix.com" target="_blank">数据恢复公司</a></td>
                      </tr>
                 </tbody>
             </table>
