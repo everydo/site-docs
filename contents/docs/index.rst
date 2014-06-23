@@ -235,13 +235,20 @@ title: 首页
 
         <div class="box_x box_try">
             <h2 title="马上下载试用易度文档管理系统" class="center" style="line-height:50px;"><a href="http://www.edodocs.com/download.rst" class="download" target="_blank">马上下载试用</a></h2>
-            <p class="center">易度文档管理软件（销售顾问） 020 - 3805 5596 </p>
+            <p class="center">易度文档管理软件（销售顾问） 400-1066-883 </p>
         </div>
 
         <div class="box_x links">
             <p><strong>友情链接(易度文档管理系统：国内最好的文档管理软件工具)</strong></p>
             <table border="0" width="100%">
                 <tbody>
+                    <tr>
+                        <td><a href="http://www.everydo.com" target="_blank">易度云办公</a></td>
+                        <td><a href="http://www.edodocs.com" target="_blank">易度文档管理</a></td>
+                        <td><a href="http://pm.everydo.com" target="_blank">易度项目管理</a></td>
+                        <td><a href="http://viewer.everydo.com" target="_blank">易度云查看</a></td>
+                        <td><a href="http://developer.everydo.com" target="_blank">易度开发者</a></td>
+                    </tr>
                     <tr>
 
                         <td><a href="http://czug.org" target="_blank">中国 Zope 用户组</a></td>
@@ -263,6 +270,14 @@ title: 首页
                      <tr>
                         <td><a href="http://www.xunzai.com" target="_blank">迅载软件站</a></td>
                         <td><a href="http://www.coremail.cn" target="_blank">邮件系统</a></td>
+                        <td><a href="http://www.3987.com" target="_blank">统一下载站</a></td>
+                        <td><a href="http://xiazai.zol.com.cn" target="_blank">ZOL应用下载</a></td>
+                        <td><a href="http://down.it168.com" target="_blank">IT168绿色软件</a></td>
+                        <td><a href="http://download.pcpop.com" target="_blank">泡泡网免费软件</a></td>
+                     </tr>
+                     <tr>
+                        <td><a href="http://www.ddooo.com" target="_blank">多多软件站</a></td>
+                        <td><a href="http://www.020fix.com" target="_blank">数据恢复公司</a></td>
                      </tr>
                 </tbody>
             </table>
