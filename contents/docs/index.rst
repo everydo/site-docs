@@ -54,7 +54,7 @@ title: 首页
                 </p>
                 <p>售前客服:
                     <a target="_blank" href="http://wpa.qq.com/msgrd?V=1&Uin=2355396602&Site=易度文档系统&Menu=yes"><img alt="点击这里给我发消息" align=absMiddle" width="77" height="22" src="img/qq2.png"></a>&nbsp
-                    <a target="_blank" href="http://wpa.qq.com/msgrd?V=1&Uin=2355396603&Site=易度文档系统&Menu=yes"><img alt="点击这里给我发消息" align=absMiddle" width="77" height="22" src="img/qq2.png"></a>&nbsp
+                    <a target="_blank" href="http://wpa.qq.com/msgrd?V=1&Uin=2355396617&Site=易度文档系统&Menu=yes"><img alt="点击这里给我发消息" align=absMiddle" width="77" height="22" src="img/qq2.png"></a>&nbsp
                     <a target="_blank" href="http://wpa.qq.com/msgrd?V=1&Uin=2355396605&Site=易度文档系统&Menu=yes"><img alt="点击这里给我发消息" align=absMiddle" width="77" height="22" src="img/qq2.png"></a>&nbsp
                 </p>
             </div>
@@ -286,5 +286,4 @@ title: 首页
 
 
  </div>
-
 
