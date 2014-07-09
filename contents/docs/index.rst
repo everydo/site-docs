@@ -48,7 +48,7 @@ title: 首页
                     <a href="tour/">详细介绍</a> /
                     <a href="pricing/">产品购买</a>
                 </p>
-                <p style="padding-left:20px;color:#666; font-size:11px;">累计下载 5,0000+， Windows 一键安装</p>
+                <p style="padding-left:20px;color:#666; font-size:11px;">累计下载 6,0000+， Windows 一键安装</p>
                 <p>
                     <a class="sr" href="/tour/honor.rst" title="易度文档管理系统是拥有自主知识产权的创新文档管理软件">易度文档管理系统资质荣誉：文档管理软件认证证书</a> &nbsp;
                 </p>
@@ -196,7 +196,7 @@ title: 首页
 
 
         <div class="box_x box_customers">
-            <h2 class="center">从2002到2013，数以千计客户选择“易度文档管理系统”</h2>
+            <h2 class="center">从2002到2014，数以千计客户选择“易度文档管理系统”</h2>
             <ul class="box">
                 <li><img src="./cases/army/img/zongcan.gif" /></li>
                 <li><img src="./cases/army/img/yunnanbudui.png" /></li>
