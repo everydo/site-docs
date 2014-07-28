@@ -8,6 +8,10 @@ title: 产品购买
 产品购买
 ==========
 
+.. raw:: html
+
+	<a href="http://www.edodocs.com/download.rst" style="position:absolute; top:100px; left:460px;"><img src="../solutions/img/download-bg.png" width="180" alt="立即免费下载"/></a
+
 .. image:: img/buy.jpg
    :alt: 购买企业文档管理软件系统
 
