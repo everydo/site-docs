@@ -7,9 +7,14 @@ title: 项目文档管理
 
 .. sectnum::
 
-=========================
+===================================
 项目文档管理
-=========================
+===================================
+
+.. raw:: html
+	
+	<a href="http://www.edodocs.com/download.rst" style="position:absolute; top:-10px; left:250px;"><img src="img/download-bg.png" width="180" alt="立即免费下载"/></a>
+
 
 .. sidebar:: 相关资源
 

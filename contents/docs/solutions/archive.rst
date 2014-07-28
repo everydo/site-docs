@@ -4,9 +4,15 @@ creator: 黄恒森
 description: ''
 title: 档案管理
 ---
-==========================
+
+====================
 易度档案管理系统介绍
-==========================
+====================
+
+.. raw:: html
+
+	<a href="http://www.edodocs.com/download.rst" style="position:absolute; top:245px; left:300px;"><img src="img/download-bg.png" width="180" alt="立即免费下载"/></a>
+
 
 .. image:: img/edodocs-archive001.jpg
 

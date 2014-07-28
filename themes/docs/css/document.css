@@ -1,4 +1,4 @@
-
+﻿
 #scheme {width:661px;height:450px;left: 0px;top: 0px;}
 #scheme-top {width:102px;height:43px;left:48px;top: 25px;}
 #right-img{width:72px;height:73px;left: 45px;top: 90px;}
@@ -158,7 +158,7 @@
 		.listingBar span a { background:none; border:none; }
 			.listingBar span a:hover { background:none; color:#000; }
 
-	.documentContent h1 { font-size:30px; line-height:30px; border-bottom:1px solid #CCC; padding:0 0 10px 0; margin:0 0 20px 0; }
+	.documentContent h1 { font-size:30px; line-height:30px; border-bottom:1px solid #CCC; padding:0 0 10px 0; margin:0 0 20px 0;}
 	table.docutils { border-collapse:collapse; border-spacing:0; }
 	table.docutils td { padding:5px; }
 
@@ -179,7 +179,7 @@
 
 
 
-#content { padding:0; MARGIN-left:20px;margin-right:20px; margin-bottom:1em;}
+#content { padding:0; MARGIN-left:20px;margin-right:20px; margin-bottom:1em; position:relative;}
 
 #portal-info {MARGIN: 0px auto; WIDTH: 952px;}
 
