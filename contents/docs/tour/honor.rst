@@ -10,7 +10,9 @@ title: 资质荣誉
 
 .. raw:: html
 
-	<a href="http://www.edodocs.com/download.rst" style="position:absolute; top:-10px; left:220px;"><img src="../solutions/img/download-bg.png" width="180" alt="立即免费下载"/></a
+	<a href="http://www.edodocs.com/download.rst" style="position:absolute; top:-10px; left:220px;"><img src="../solutions/img/download-bg.png" width="180" alt="立即免费下载"/></a>
+	<a href="http://www.edodocs.com/download.rst" style="position:absolute; bottom:35px; right:0px;"><img src="../solutions/img/download-bg.png" width="180" alt="立即免费下载"/></a>
+
 
 `易度文档管理系统 <http://www.edodocs.com>`_ 向企业提供了一个实用，安全，高效的文档管理软件。企业可以集中存储和管理海量的文档和知识资产，解决企业文档管理6大基础难题。
 

@@ -10,7 +10,8 @@ title: 　安装部署
 
 .. raw:: html
 
-	<a href="http://www.edodocs.com/download.rst" style="position:absolute; top:50px; left:350px;"><img src="../solutions/img/download-bg.png" width="180" alt="立即免费下载"/></a
+	<a href="http://www.edodocs.com/download.rst" style="position:absolute; top:50px; left:350px;"><img src="../solutions/img/download-bg.png" width="180" alt="立即免费下载"/></a>
+	<a href="http://www.edodocs.com/download.rst" style="position:absolute; bottom:0px; right:0px;"><img src="../solutions/img/download-bg.png" width="180" alt="立即免费下载"/></a>
 
 .. Contents::
 .. sectnum::

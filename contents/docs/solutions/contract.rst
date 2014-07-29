@@ -14,7 +14,7 @@ title: 合同管理
 .. raw:: html
 
 	<a href="http://www.edodocs.com/download.rst" style="position:absolute; top:47px; left:280px;"><img src="img/download-bg.png" width="180" alt="立即免费下载"/></a>
-	
+	<a href="http://www.edodocs.com/download.rst" style="position:absolute; bottom:0px; right:0px;"><img src="img/download-bg.png" width="180" alt="立即免费下载"/></a>
 
 .. sidebar:: 相关资源
 

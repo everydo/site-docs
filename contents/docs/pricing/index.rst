@@ -10,7 +10,8 @@ title: 产品购买
 
 .. raw:: html
 
-	<a href="http://www.edodocs.com/download.rst" style="position:absolute; top:100px; left:460px;"><img src="../solutions/img/download-bg.png" width="180" alt="立即免费下载"/></a
+	<a href="http://www.edodocs.com/download.rst" style="position:absolute; top:215px; left:460px;"><img src="../solutions/img/download-bg.png" width="180" alt="立即免费下载"/></a>
+	<a href="http://www.edodocs.com/download.rst" style="position:absolute; bottom:0px; right:0px;"><img src="../solutions/img/download-bg.png" width="180" alt="立即免费下载"/></a>
 
 .. image:: img/buy.jpg
    :alt: 购买企业文档管理软件系统
@@ -22,7 +23,7 @@ title: 产品购买
 
 选择适合的版本
 =================
-易度文档管理系统分基础版、标准版、企业版、高级企业版。下图为各版本功能列表，用户根据企业实际情况，按需选购：
+易度文档管理系统分标准版、企业版、高级企业版。下图为各版本功能列表，用户根据企业实际情况，按需选购：
 
 .. raw:: html
 

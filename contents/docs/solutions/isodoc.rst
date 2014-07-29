@@ -12,7 +12,7 @@ ISO/GMP质量体系文件管控
 .. raw:: html
 
 	<a href="http://www.edodocs.com/download.rst" style="position:absolute; top:235px; left:290px;"><img src="img/download-bg.png" width="180" alt="立即免费下载"/></a>
-
+	<a href="http://www.edodocs.com/download.rst" style="position:absolute; bottom:100px; right:0px;"><img src="img/download-bg.png" width="180" alt="立即免费下载"/></a>
 
 .. image:: pic/edodocs-isodoc-image001.jpg
 
