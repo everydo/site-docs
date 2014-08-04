@@ -5,9 +5,14 @@ description: ''
 title: 企业文档管理
 ---
 
-=========================================
+===============
 企业文档管理
-=========================================
+===============
+
+.. raw:: html
+
+	<a href="http://www.edodocs.com/download.rst" style="position:absolute; top:-10px; left:250px;"><img src="img/download-bg.png" width="180" alt="立即免费下载"/></a>
+	<a href="http://www.edodocs.com/download.rst" style="position:absolute; bottom:0px; right:0px;"><img src="img/download-bg.png" width="180" alt="立即免费下载"/></a>
 
 .. sectnum::
 

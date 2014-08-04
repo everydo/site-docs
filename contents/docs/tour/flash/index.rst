@@ -7,6 +7,13 @@ title: 产品视频演示
 ==========================
 产品视频演示
 ==========================
+
+.. raw:: html
+
+	<a href="http://www.edodocs.com/download.rst" style="position:absolute; top:-10px; left:300px;"><img src="../../solutions/img/download-bg.png" width="180" alt="立即免费下载"/></a>
+	<a href="http://www.edodocs.com/download.rst" style="position:absolute; bottom:0px; right:0px;"><img src="../../solutions/img/download-bg.png" width="180" alt="立即免费下载"/></a>
+
+
 注意：为得到最佳的观看效果，请把画质切换到“超清”。
 
 易度文档管理系统快速入门视频

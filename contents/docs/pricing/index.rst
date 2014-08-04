@@ -8,6 +8,11 @@ title: 产品购买
 产品购买
 ==========
 
+.. raw:: html
+
+	<a href="http://www.edodocs.com/download.rst" style="position:absolute; top:215px; left:460px;"><img src="../solutions/img/download-bg.png" width="180" alt="立即免费下载"/></a>
+	<a href="http://www.edodocs.com/download.rst" style="position:absolute; bottom:0px; right:0px;"><img src="../solutions/img/download-bg.png" width="180" alt="立即免费下载"/></a>
+
 .. image:: img/buy.jpg
    :alt: 购买企业文档管理软件系统
 
@@ -18,266 +23,317 @@ title: 产品购买
 
 选择适合的版本
 =================
-易度文档管理系统分基础版、标准版、企业版、高级企业版。下图为各版本功能列表，用户根据企业实际情况，按需选购：
+易度文档管理系统分标准版、企业版、高级企业版。下图为各版本功能列表，用户根据企业实际情况，按需选购：
 
-.. list-table::
-   :widths: 5,3,3,3,4
+.. raw:: html
 
-   * -
-     - **基础版**
-     - **标准版**
-     - **企业版**
-     - **高级企业版**
-   * - 
-     - 企业网盘
-     - 更强权限管控
-     - 各种流程管控
-     - 档案管理文控
-   * - 集中存储
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 个人网盘
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 在线预览
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 图纸预览
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 音/视频在线播放
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 自动备份
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 文件和文件夹授权
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 成组授权
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 全文检索
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 外部编辑
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 文档关联和附件
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 快捷方式
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 扫描支持
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 批量管理
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - Web文件夹访问
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 中英双语
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 消息发送
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 收藏夹
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 版本管理
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 公共文档库
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 标签组
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * -
-     - 基础版
-     - 标准版
-     - 企业版
-     - 高级企业版
-   * - 6级查看权限
-     -
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 文件保密
-     -
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 操作历史
-     -
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 回收站
-     - 
-     - |checked|
-     - |checked|
-     - |checked|
-   * -
-     - 基础版
-     - 标准版
-     - 企业版
-     - 高级企业版
-   * - IP段权限策略
-     - 
-     - 
-     - |checked|
-     - |checked|
-   * - 文档模板
-     - 
-     - 
-     - |checked|
-     - |checked|
-   * - 文件夹模板
-     - 
-     - 
-     - |checked|
-     - |checked|
-   * - 文档发布
-     - 
-     - 
-     - |checked|
-     - |checked|
-   * - 受控文件夹
-     - 
-     - 
-     - |checked|
-     - |checked|
-   * - 权限批量管理
-     - 
-     - 
-     - |checked|
-     - |checked|
-   * - OCR识别
-     - 
-     - 
-     - |checked|
-     - |checked|
-   * - 活动目录集成
-     - 
-     - 
-     - |checked|
-     - |checked|
-   * - 帐号委托管理
-     - 
-     - 
-     - |checked|
-     - |checked|
-   * - 文档审批流程
-     - 
-     - 
-     - |checked|
-     - |checked|
-   * - 文档借阅流程
-     - 
-     - 
-     - |checked|
-     - |checked|
-   * - 自动编号规则
-     - 
-     - 
-     - |checked|
-     - |checked|
-   * - 统计报表
-     - 
-     - 
-     - |checked|
-     - |checked|
-   * - 更多扩展应用..
-     - 
-     - 
-     - |checked|
-     - |checked|
-   * -
-     - 基础版
-     - 标准版
-     - 企业版
-     - 高级企业版
-   * - 专辑
-     - 
-     - 
-     - 
-     - |checked|
-   * - 自定义流程
-     - 
-     - 
-     - 
-     - |checked|
-   * - 自定义扩展属性
-     - 
-     - 
-     - 
-     - |checked|
-   * - 自定义规则
-     - 
-     - 
-     - 
-     - |checked|
-   * - 档案管理
-     - 
-     - 
-     - 
-     - |checked|
-   * - 文控流程
-     - 
-     - 
-     - 
-     - |checked|
-   * - 安装定制应用 
-     - 
-     - 
-     - 
-     - |checked|
+	<table width="500" border="1" cellspacing="0" cellpadding="0">
+	  <tr>
+	    <td rowspan="2">&nbsp;</td>
+	    <th align="center">标准版</th>
+	    <th align="center">企业版</th>
+	    <th align="center">高级企业版</th>
+	  </tr>
+	  <tr>
+	    <td align="center">更强权限管控</td>
+	    <td align="center">各种流程管控</td>
+	    <td align="center">档案管理文控</td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;集中存储</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;个人网盘</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;在线浏览</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;图纸预览</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;音/视频在线播放</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;自动备份</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;文件和文件夹授权</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;成组授权</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;全文检索</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;外部编辑</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;文档关联和附件</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;快捷方式</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;扫描支持</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;批量管理</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;Web文件夹访问</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;中英双语</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;消息发送</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;收藏夹</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;版本管理</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;公共文档库</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;标签组</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;</td>
+	    <td align="center">标准版</td>
+	    <td align="center">企业版</td>
+	    <td align="center">高级企业版</td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;6级查看权限</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;文件保密</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;操作历史</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" />;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;回收站</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;</td>
+	    <td align="center">标准版</td>
+	    <td align="center">企业版</td>
+	    <td align="center">高级企业版</td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;IP段权限策略</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;文档模板</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;文件夹模板</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;文档发布</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;受控文件夹</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;权限批量管理</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;OCR识别</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;活动目录集成</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;帐号委托管理</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;文档审批流程</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;文档借阅流程</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;自动编号规则</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;统计报表</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;更多扩展应用..</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;</td>
+	    <td align="center">标准版</td>
+	    <td align="center">企业版</td>
+	    <td align="center">高级企业版</td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;专辑</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;自定义流程</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;自定义扩展属性</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;自定义规则</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;档案管理</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;文控流程</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;安装定制应用 </td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center">&nbsp;</td>
+	    <td align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	</table>
 
 另外，易度提供免费的开发版，可以进行扩展应用包的开发。开发版限制用户数为3人，文档容量不超过100M。
 
@@ -293,160 +349,211 @@ title: 产品购买
 
 标准实施服务套餐远程完成，需要客户能够提供计算机远程访问的环境。对于不能提供远程访问条件的。
 
+.. raw:: html
 
-.. list-table::
-   :widths: 6,3,3,3,3,3
+	<table width="430" border="1" cellspacing="0" cellpadding="0">
+	  <tr>
+	    <td>&nbsp;</td>
+	    <td width="50" align="center">自动</td>
+	    <td width="50" align="center">基础</td>
+	    <td width="50" align="center">标准</td>
+	    <td width="50" align="center">档案</td>
+	    <td width="50" align="center">文控</td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;全套《操作手册》</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;《系统实施指南》</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;教程《系统快速入门》</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;2周邮件答疑</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;服务器硬件选型</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;系统安装</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" />;</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;升级序列号</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;邮件集成设置</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;组织结构设置</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;人员导入</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;许可分配</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;栏目规划</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;文件夹结构规划</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;文件夹授权</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;标签组</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;文档模板</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;文件夹模板</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;初始数据导入</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;档案管理</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center"></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;文控流程实施</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;审批流程定制（2个）</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center"><img src="img/checked.gif" width="14" height="14" /></td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;用户远程培训</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">可选</td>
+	    <td width="50" align="center">可选</td>
+	    <td width="50" align="center">可选</td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;上门服务</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">可选</td>
+	    <td width="50" align="center">可选</td>
+	    <td width="50" align="center">可选</td>
+	  </tr>
+	  <tr>
+	    <td>&nbsp;附加服务</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">&nbsp;</td>
+	    <td width="50" align="center">可选</td>
+	    <td width="50" align="center">可选</td>
+	    <td width="50" align="center">可选</td>
+	  </tr>
+	</table>
 
-   * -
-     - 自助
-     - 基础
-     - 标准
-     - 档案
-     - 文控
-   * - 全套《操作手册》
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 《系统实施指南》
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 教程《系统快速入门》
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 2周邮件答疑
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 服务器硬件选型
-     - 
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 系统安装
-     - 
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 升级序列号
-     -
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 邮件集成设置
-     -
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 组织结构设置
-     -
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 人员导入
-     -
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 许可分配
-     -
-     - |checked|
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 栏目规划
-     -
-     -
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 文件夹结构规划
-     -
-     -
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 文件夹授权
-     -
-     -
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 标签组
-     -
-     -
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 文档模板
-     -
-     -
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 文件夹模板
-     -
-     -
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 初始数据导入
-     -
-     -
-     - |checked|
-     - |checked|
-     - |checked|
-   * - 档案管理
-     -
-     -
-     - 
-     - |checked|
-     - |checked|
-   * - 文控流程实施
-     -
-     -
-     - 
-     - 
-     - |checked|
-   * - 审批流程定制（2个）
-     -
-     -
-     - 
-     - 
-     - |checked|
-   * - 用户远程培训
-     -
-     -
-     - 可选
-     - 可选
-     - 可选
-   * - 上门服务
-     -
-     -
-     - 可选
-     - 可选
-     - 可选
-   * - 附加服务
-     -
-     -
-     - 可选
-     - 可选
-     - 可选
 
 上门服务
 ---------------

@@ -5,9 +5,14 @@ description: 图文档管理系统，轻量级的PDM产品数据量管理、PLM�
 title: 产品图文档管理
 ---
 
-==========================
+===================
 产品图文档管理
-==========================
+===================
+
+.. raw:: html
+
+	<a href="http://www.edodocs.com/download.rst" style="position:absolute; top:-10px; left:280px;"><img src="img/download-bg.png" width="180" alt="立即免费下载"/></a>
+	<a href="http://www.edodocs.com/download.rst" style="position:absolute; bottom:100px; right:0px;"><img src="img/download-bg.png" width="180" alt="立即免费下载"/></a>
 
 .. sidebar:: 相关资源
 
