@@ -1,7 +1,7 @@
 description: ''
 exclude: ['*.png', img, '*.htm', include.rst, index.rst.old, indexcol.rst.moved, quicklink.rst, common,
   demo.rst, cert, essay.rst, indexcol.rst, signup.rst, robots.txt, forum.rst, maintain.rst,
-  download.rst, common]
+  download.rst, common, apps.json]
 order: [index.rst, tour, solutions, cases, pricing, help, blog]
 theme: index.html
 theme_base: http://download.zopen.cn/themes/docs
