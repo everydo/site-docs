@@ -21,7 +21,7 @@ ISO/GMP质量体系文件管控
 .. sidebar:: 相关资源
 
    - `下载试用版 <../download.rst>`__
-   - `在线试用 <http://isodoc.oc.easydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fisodoc.easydo.cn&isdocsdemo=1>`__
+   - `在线试用 <http://oc.easydo.cn/isodoc/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fisodoc.easydo.cn&isdocsdemo=1>`__
    - `快速了解系统功能 <../tour/>`__
 
 

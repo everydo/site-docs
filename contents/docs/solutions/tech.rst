@@ -18,7 +18,7 @@ title: 产品图文档管理
 
    - `下载试用版 <../download.rst>`__
    - `快速了解系统功能 <../tour/>`__
-   - `在线试用 <http://pdm.oc.easydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fpdm.easydo.cn&isdocsdemo=1>`__
+   - `在线试用 <http://oc.easydo.cn/pdm/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fpdm.easydo.cn&isdocsdemo=1>`__
 
 技术文件，通常包括产品相关的2D、3D工程图纸以及设计文档，以及其它技术图纸、代码文本、技术手册、设计规范等。
 

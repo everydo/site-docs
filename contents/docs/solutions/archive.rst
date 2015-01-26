@@ -30,7 +30,7 @@ title: 档案管理
 .. sidebar:: 相关资源
 
    - `下载试用版 <../download.rst>`__
-   - `在线试用 <http://archive.oc.easydo.cn/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Farchive.easydo.cn&isdocsdemo=1>`__
+   - `在线试用 <http://oc.easydo.cn/archive/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Farchive.easydo.cn&isdocsdemo=1>`__
    - `快速了解系统功能 <../tour/>`__
    - `《易度档案管理介绍》 <http://download.zopen.cn/releases/docs/易度档案管理系统介绍.pdf>`__
 
@@ -240,5 +240,4 @@ OCR智能识别和转换
 .. image:: img/archive-img015.png
    :alt: 档案资料的存储还原备份
    :width: 347px
-
 
