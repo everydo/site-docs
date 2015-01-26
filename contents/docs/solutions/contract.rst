@@ -21,7 +21,7 @@ title: 合同管理
    - `下载试用版 <../download.rst>`__
    - `快速了解系统功能 <../tour/>`__
    - `《易度合同管理系统介绍.pdf》 <http://download.zopen.cn/releases/docs/易度合同管理系统介绍.pdf>`__
-   - `在线试用 <http://oc.easydo.cn/contract/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fcontract.easydo.cn&isdocsdemo=1>`__
+   - `在线试用 <http://oc.easydo.cn/contract/@@loginForm.html?camefrom=%2Fcontract%2F%40%40authorize%3Fstatus%3Dhttp%253A%252F%252Fcontract.easydo.cn%252Fdefault%252F%2540%2540index.html%26client_id%3Dworkonline%26redirect_url%3Dhttp%253A%252F%252Fcontract.easydo.cn%252Fdefault%252F%2540%2540login%26response_type%3Dcode&isdocsdemo=1>`__
  
 `**观看视频: 《易度合同管理软件的使用》** <../tour/flash/#id6>`__
 
