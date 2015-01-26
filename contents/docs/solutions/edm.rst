@@ -19,7 +19,7 @@ title: 企业文档管理
 .. sidebar:: 相关资源
 
    - `下载试用版 <../download.rst>`__
-   - `在线试用 <http://oc.easydo.cn/dms/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Fdms.easydo.cn&isdocsdemo=1>`__
+   - `在线试用 <http://oc.easydo.cn/dms/@@loginForm.html?camefrom=%2Fdms%2F%40%40authorize%3Fstatus%3Dhttp%253A%252F%252Fdms.easydo.cn%252Fdefault%252F%2540%2540index.html%26client_id%3Dworkonline%26redirect_url%3Dhttp%253A%252F%252Fdms.easydo.cn%252Fdefault%252F%2540%2540login%26response_type%3Dcode&isdocsdemo=1>`__
    - `快速了解系统功能 <../tour/>`__
    - `《企业文档管理介绍.pdf》 <http://download.zopen.cn/releases/docs/%E6%98%93%E5%BA%A6%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D.pdf>`__
 
