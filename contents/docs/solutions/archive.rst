@@ -30,7 +30,7 @@ title: 档案管理
 .. sidebar:: 相关资源
 
    - `下载试用版 <../download.rst>`__
-   - `在线试用 <http://oc.easydo.cn/archive/@@loginForm.html?camefrom=%2Flogin%3Fservice%3Dhttp%253A%252F%252Farchive.easydo.cn&isdocsdemo=1>`__
+   - `在线试用 <http://oc.easydo.cn/archive/@@loginForm.html?camefrom=%2Farchive%2F%40%40authorize%3Fstatus%3Dhttp%253A%252F%252Farchive.easydo.cn%252Fdefault%252F%2540%2540index.html%26client_id%3Dworkonline%26redirect_url%3Dhttp%253A%252F%252Farchive.easydo.cn%252Fdefault%252F%2540%2540login%26response_type%3Dcode&isdocsdemo=1>`__
    - `快速了解系统功能 <../tour/>`__
    - `《易度档案管理介绍》 <http://download.zopen.cn/releases/docs/易度档案管理系统介绍.pdf>`__
 
