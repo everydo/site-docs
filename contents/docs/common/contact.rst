@@ -23,13 +23,11 @@ title: 联系我们
        - `易度产品负责人微博 <http://weibo.com/panjunyong>`__
 
    - - 客服/技术支持
-     - 电话: 020-38055596邮件: service@everydo.com
+     - 电话: 020-85558816邮件: service@everydo.com
    - - 产品代理
-     - 电话: 020-38055563 邮件: agent@everydo.com
+     - 电话: 020-85558816邮件: agent@everydo.com
    - - 市场合作
      - 邮件: market@everydo.com
-   - - 传真
-     - 020-38055386
    - - 银行帐号
      - 开户名：广州润普网络科技有限公司
 

@@ -11,7 +11,7 @@ title: 免费下载
 
     <p>如在安装和试用过程中有任何问题，可联系我们的销售顾问。</p>
     
-    <p>咨询热线：<b>400-1066-883 020-66351881</b></p>
+    <p>咨询热线：<b>400-1066-883 020-85558816</b></p>
 
     <div id="nabblesignup" style="width: 100%">
          <iframe name="signupFrame" id="signupFrame" width="100%" height="850px" scrolling="no" frameborder="0" src="http://zopen.everydo.cn/default/sales/inquiry_form/@@@zopen.sales.survey">
