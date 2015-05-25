@@ -279,6 +279,7 @@ title: 首页
                         <td><a href="http://www.ddooo.com" target="_blank">多多软件站</a></td>
                         <td><a href="http://www.020fix.com" target="_blank">数据恢复公司</a></td>
                         <td><a href="http://www.oatos.com" target="_blank">企业网盘</a></td>
+                        <td><a href="http://www.zhuantilan.com/zt/" target="_blank">电脑软件专题</a></td>
                      </tr>
                 </tbody>
             </table>
