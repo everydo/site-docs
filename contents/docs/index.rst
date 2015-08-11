@@ -280,6 +280,8 @@ title: 首页
                         <td><a href="http://www.020fix.com" target="_blank">数据恢复公司</a></td>
                         <td><a href="http://www.oatos.com" target="_blank">企业网盘</a></td>
                         <td><a href="http://www.zhuantilan.com/zt/" target="_blank">电脑软件专题</a></td>
+                        <td><a href="http://www.dc67.com" title="免费自助建系统" target="_blank">免费建站</a></td>
+
                      </tr>
                 </tbody>
             </table>
