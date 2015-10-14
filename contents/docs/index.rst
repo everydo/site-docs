@@ -243,11 +243,10 @@ title: 首页
             <table border="0" width="100%">
                 <tbody>
                     <tr>
-                        <td><a href="http://www.everydo.com" target="_blank">易度云办公</a></td>
+                        <td><a href="http://easydo.cn" target="_blank">易工作</a></td>
                         <td><a href="http://www.edodocs.com" target="_blank">易度文档管理</a></td>
                         <td><a href="http://pm.everydo.com" target="_blank">易度项目管理</a></td>
-                        <td><a href="http://viewer.everydo.com" target="_blank">易度云查看</a></td>
-                        <td><a href="http://developer.everydo.com" target="_blank">易度开发者</a></td>
+                        <td><a href="easydo.cn/docs/viewer" target="_blank">云查看</a></td>
                     </tr>
                     <tr>
 
