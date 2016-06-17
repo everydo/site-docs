@@ -32,7 +32,7 @@ title: 档案管理
    - `下载试用版 <../download.rst>`__
    - `在线试用 <http://oc.easydo.cn/archive/@@loginForm.html?camefrom=%2Farchive%2F%40%40authorize%3Fstatus%3Dhttp%253A%252F%252Farchive.easydo.cn%252Fdefault%252F%2540%2540index.html%26client_id%3Dworkonline%26redirect_url%3Dhttp%253A%252F%252Farchive.easydo.cn%252Fdefault%252F%2540%2540login%26response_type%3Dcode&isdocsdemo=1>`__
    - `快速了解系统功能 <../tour/>`__
-   - `《润普档案管理介绍》 <http://download.zopen.cn/releases/docs/润普档案管理系统介绍.pdf>`__
+   - `《润普档案管理介绍》 <http://www.bmtapp.cn/down/%E6%B6%A6%E6%99%AE%E6%A1%A3%E6%A1%88%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%20%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D%EF%BC%882015%E7%89%88%EF%BC%89.pdf>`__
 
 润普档案管理系统是广州润普网络科技有限公司专门为档案管理设计开发的软件系统，遵循国家档案局《归档文件整理规则》内容和集中统一管理档案，维护档案的完整与安全，便于利用的原则。它具备高效、高质、简单、实用的特点。
 
