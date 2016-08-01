@@ -185,4 +185,42 @@ title: 易度小故事之合同审批
    :class: float-right  
    
    
+.. image:: img/6.1.jpg
+   :class: float-right 
+   
+登录手机微信企业号进入平台，可随时随地进行移动端办公。
 
+1）关注润普易度平台微信企业号；
+
+.. image:: img/6.2.jpg
+   :class: float-right 
+   
+2）进入微信企业号页面；
+
+.. image:: img/6.3.jpg
+   :class: float-right 
+   
+3）点击“待办事项”，进入工作页面；
+
+.. image:: img/6.4.jpg
+   :class: float-right 
+   
+4）进入合同审批页面，点击待审合同进行审批；
+
+.. image:: img/6.5.jpg
+   :class: float-right 
+   
+5）审批完结，可查看工作历史；
+
+.. image:: img/6.6.jpg
+   :class: float-right 
+   
+   
+.. image:: img/7.1.jpg
+   :class: float-right 
+   
+合同审批完成后，行政处人员可在线打印后盖章；或者下载到本地，打印盖章；
+
+.. image:: img/7.2.jpg
+   :class: float-right 
+   
