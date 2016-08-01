@@ -216,11 +216,11 @@ title: 易度小故事之合同审批
    :class: float-right 
    
    
-.. image:: img/7.1.jpg
+.. image:: img/6.7.jpg
    :class: float-right 
    
 合同审批完成后，行政处人员可在线打印后盖章；或者下载到本地，打印盖章；
 
-.. image:: img/7.2.jpg
+.. image:: img/6.8.jpg
    :class: float-right 
    
