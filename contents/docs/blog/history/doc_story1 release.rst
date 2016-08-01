@@ -53,6 +53,30 @@ title: 易度小故事之合同审批
 
 .. image:: img/6.jpg
    :class: float-right
+   
+.. image:: img/2.1.jpg
+   :class: float-right
+   
+1）启动【桌面助手】工具；
 
+.. image:: img/2.2.jpg
+   :class: float-right
+   
+2）点击【编辑】按钮；
 
+.. image:: img/2.3.jpg
+   :class: float-right
+   
+3）桌面助手调用本地office或者WPS软件，对文档进行外部编辑；
+
+.. image:: img/2.4.jpg
+   :class: float-right
+   
+4）文档编写完成，点击保存，系统会自动上传编辑后的最新版本替换原来的文档。
+
+.. image:: img/2.5.jpg
+   :class: float-right
+   
+.. image:: img/2.6.jpg
+   :class: float-right
 
