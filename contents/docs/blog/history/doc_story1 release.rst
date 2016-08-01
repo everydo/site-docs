@@ -25,8 +25,34 @@ title: 易度小故事之合同审批
    
 场景一：合同审批
 -------------------------------------
-.. image:: img/A.jpg
+.. image:: img/1.jpg
    :class: float-right
 
 拟定项目合同，可直接新建文件，进行编写；也可以通过调用模板的方式进行合同的拟定。
+
+.. image:: img/2.jpg
+   :class: float-right
+
+模板设置：
+接上图，点击“文档模板”，选择某个文件设置为模板，如下图所示，选中文件后，点击“确认”；
+
+.. image:: img/3.jpg
+   :class: float-right
+
+如下图，模板设置成功；
+
+.. image:: img/4.jpg
+   :class: float-right
+
+接上图，调用“模板”创建合同，单击“格式”后面的“向下三角形”，选择“模板”，输入文件名称，点击“新建；开始编写”；
+
+.. image:: img/5.jpg
+   :class: float-right
+
+如下图，完成通过调用合同模板来创建合同等步骤。
+
+.. image:: img/6.jpg
+   :class: float-right
+
+
 
