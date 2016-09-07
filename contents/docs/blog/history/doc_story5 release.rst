@@ -9,44 +9,40 @@ title: 易度小故事之文档管理规划
 =============================
 
 
-.. image:: img/A2.jpg
+.. image:: img/wdglgh/A2.jpg
   :width: 600
-.. image:: img/B2.jpg
+.. image:: img/wdglgh/B2.jpg
   :width: 600   
-.. image:: img/C2.jpg
-  :width: 600
-.. image:: img/D2.jpg
+.. image:: img/wdglgh/C2.jpg
   :width: 600
    
-场景四：项目资料查阅
+场景五：文档管理规划
 -------------------------------------
-.. image:: img/zlss1.jpg
+.. image:: img/dyjg1.jpg
   :width: 600
 
-主动搜索有三种方式：关键字检索、高级搜索、标签组筛选。
+通过文档管理系统构建销售部文档库。对文档进行有效的分类管理。
 
-1）关键字检索
-其中关键字搜索根据搜索的范围不同也是有两种方式的，先来说下第一种，对整个站点关键字检索。
-
-在下图标号①中输入“银行”二字，搜索的范围是整个站点的内容，我们可以看到下图标号；②是在我们输入“银行”二字时系统会自动弹出整个站点里与这两个关键字最契合的内容，也就是我们说的“即时搜索”。
-
-
-.. image:: img/zlss2.jpg
+.. image:: img/dyjg2.jpg
   :width: 600
 
-在上面弹出的“即时搜索”没有想要的内容时，可以按“回车”键，系统会将整个站点带有“银行”这两个关键字的内容全部显示出来，包括压缩包。
+创建个人网盘的文件分类；
 
 
-.. image:: img/zlss3.jpg
+.. image:: img/dyjg3.jpg
   :width: 600
 
-接下来第二种是对文件夹里面的关键字检索。
-来到相关的文档库界面，如下图，郑旋来到了“项目文档”界面，在右边搜索框里面输入“银行”二字，这个时候搜索的范围就只是“项目文档”里面的内容了。
 
-.. image:: img/zlss4.jpg
+.. image:: img/dyjg4.jpg
+  :width: 600
+  
+  
+共享文件夹给其它人员；
+
+.. image:: img/dyjg5.jpg
   :width: 600
 
-.. image:: img/zlss5.jpg
+.. image:: img/dyjg6.jpg
   :width: 600
 
 2）高级搜索
