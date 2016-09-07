@@ -9,47 +9,47 @@ title: 易度小故事之图纸分发
 =============================
 
 
-.. image:: img/A1.0.jpg
+.. image:: img/A1.jpg
   :width: 600
-.. image:: img/B1.0.jpg
+.. image:: img/B1.jpg
   :width: 600   
-.. image:: img/C1.0.jpg
+.. image:: img/C1.jpg
   :width: 600
-.. image:: img/D1.0.jpg
+.. image:: img/D1.jpg
   :width: 600
    
 场景三 ：文件分发
 -------------------------------------
-.. image:: img/wjsc1.jpg
+.. image:: img/scwj1.jpg
   :width: 600
 
 1）选择文件所要上传的具体文件夹。
 
 
-.. image:: img/wjsc2.jpg
+.. image:: img/scwj2.jpg
   :width: 600
 
 2）点击上传按钮，如上传文件较大的或需整个文件夹上传的情况下，建议使用桌面助手上传的方式上传。
 
 
-.. image:: img/wjsc3.jpg
+.. image:: img/scwj3.jpg
   :width: 600
 
 3）通过网页形式上传有两种方式，第一种直接点击“请选择要上传的文件”按钮，第二种将本地电脑上要上传的文件通过拖拽的方式拖至虚线框。不管以上面那种方式最后都不要忘了点击“上传”按钮。
 
 
-.. image:: img/wjsc4.jpg
+.. image:: img/scwj4.jpg
   :width: 600
   
   
-.. image:: img/wjsc5.jpg
+.. image:: img/scwj5.jpg
   :width: 600
   
 
 4）现在可以看到刚刚上传的“2025彩盒图”和“B产品图”已经在文件夹样品里面了。
 
 
-.. image:: img/wjsc6.jpg
+.. image:: img/scwj6.jpg
   :width: 600
   
 
@@ -62,52 +62,52 @@ title: 易度小故事之图纸分发
 1）电子分发流程设置，点击“分发收回”，找到“电子分发”点击。
 
 
-.. image:: img/tjlc12.jpg
+.. image:: img/tjlc2.jpg
   :width: 600
 
 2)出现如下界面。
 
-.. image:: img/tjlc13.jpg
+.. image:: img/tjlc3.jpg
   :width: 600
 
 
 3）根据公司内部组织架构以及办公流程，进行分发步骤以及审核人的设置。
 
 
-.. image:: img/tjlc14.jpg
+.. image:: img/tjlc4.jpg
   :width: 600
 
 
 4）接下来，由设计部员工将刚刚上传上来的两个文件——“2025彩盒图”和“B产品图”提交分发流程，这个过程可以有两个方式：第一种方式在“文件库”界面，勾选相关文件，点击“关联表单”按钮，找到“电子分发”。
 
 
-.. image:: img/tjlc15.jpg
+.. image:: img/tjlc5.jpg
   :width: 600
   
-.. image:: img/tjlc16.jpg
+.. image:: img/tjlc6.jpg
   :width: 600  
   
   
 第二种方式，在“分发收回”流程管理界面，点击“创建”按钮。
 
-.. image:: img/tjlc17.jpg
+.. image:: img/tjlc7.jpg
   :width: 600  
 
 
 显示如下界面：
 
-.. image:: img/tjlc18.jpg
+.. image:: img/tjlc8.jpg
   :width: 600  
   
 选择需要分发的文件：
 
 
-.. image:: img/tjlc19.jpg
+.. image:: img/tjlc9.jpg
   :width: 600  
 
 选择要分发到的人员或者部门，设置好电子分发下去给到的权限。点击“提交”。
 
-.. image:: img/tjlc110.jpg
+.. image:: img/tjlc10.jpg
   :width: 600  
   
 .. image:: img/ffsp1.jpg
