@@ -7,10 +7,11 @@ title: 易度广纳贤才
 ============================
 易度广纳贤才
 ============================
+`在线职位申请 <https://hr.easydo.cn/default/@zopen.HR:home>`_
 
-`在线职位申请  <https://hr.easydo.cn/default/@zopen.HR:home>_`
 .. Contents:: 职位清单：
 .. sectnum::
+
 
 易度是国内领先的SaaS服务提供商。在云计算时代，试图为国内广大中小企业，提供一站式的云办公平台。
 
