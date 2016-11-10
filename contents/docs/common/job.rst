@@ -7,7 +7,7 @@ title: 易度广纳贤才
 ============================
 易度广纳贤才
 ============================
-`在线职位申请 <https://hr.easydo.cn/default/@zopen.HR:homet>`__
+`在线职位申请 <https://hr.easydo.cn/default/@zopen.HR:home>`__
 
 
 .. Contents:: 职位清单：
